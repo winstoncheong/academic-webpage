@@ -30,7 +30,7 @@
 
 </div>
 <div class="pic">
-  <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:150px;"/>
+  <img src="/assets/profile_pic.jpg" alt="profile pic" style="width:150px;"/>
 </div>
 </div>
 
