@@ -30,7 +30,9 @@
 
 </div>
 <div class="pic">
-  <img src="/assets/profile_pic.jpg" alt="profile pic" style="width:150px;"/>
+  <!-- ![](assets/profile_pic.jpg) -->
+  <!-- Not sure how to make compiler spit out the right output. Will just manually change output -->
+  <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
 </div>
 </div>
 
