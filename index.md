@@ -15,13 +15,7 @@ title: Winston Cheong's page
     width: 50%;
   }
   .pic {
-    float: right;
     width: 50%;
-  }
-  .intro:after {
-    content: "";
-    display: table;
-    clear: both;
   }
 </style>
 
