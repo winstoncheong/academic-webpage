@@ -1,8 +1,6 @@
-
 ---
 title: Winston Cheong's page
 ---
-
 
 <div class="name">Winston Cheong</div>
 <style>
