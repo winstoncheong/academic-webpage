@@ -31,9 +31,11 @@ title: Winston Cheong's page
   <!-- Not sure how to make compiler spit out the right output. Will just manually change output -->
   <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
 </div>
+
   * I am a 5th year graduate student working under the supervision of Rina Anno. 
   * Office: CW 127
   * Email: `{first name}{first letter of last name}@ksu.edu`
+
 </div>
 
 
