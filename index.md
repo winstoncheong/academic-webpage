@@ -42,8 +42,8 @@ This semester I am teaching Math 150: Plane Trigonometry.
 
 ## Recitation Pages
 * [2022 Spring : Trig](./recit/2022spring)
-* [2020 Spring : Calc 1](https://math.ksu.edu/~winstonc/recit/2020spring)
-* [2019 Fall : Calc 1](https://math.ksu.edu/~winstonc/recit/2019fall)
+* [2020 Spring : Calc 1](https://math.ksu.edu/~winstonc/recit/2020spring/)
+* [2019 Fall : Calc 1](https://math.ksu.edu/~winstonc/recit/2019fall/)
 
 # Research interests
 My current focus is on the enhancement of categories, particularly dg and $A_\infty$ enhancement, as this pertains to my thesis project.
