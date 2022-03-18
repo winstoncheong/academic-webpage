@@ -26,33 +26,14 @@ title: Winston Cheong's page
 </style>
 
 <div class="intro">
-<div class="column">
-
-  * I am a 5th year graduate student working under the supervision of Rina Anno. 
-  * Office: CW 127
-  * Email: `{first name}{first letter of last name}@ksu.edu`
-
-</div>
 <div class="pic">
   <!-- ![](assets/profile_pic.jpg) -->
   <!-- Not sure how to make compiler spit out the right output. Will just manually change output -->
   <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
 </div>
-</div>
-
-## Table of Contents
-
-<div class="toc">
-
-- [Teaching](#teaching)
-  - [Recitation Pages](#recitation-pages)
-- [Research interests](#research-interests)
-- [Publications and Preprints](#publications-and-preprints)
-- [Presentations](#presentations)
-- [Awards](#awards)
-- [Data recovery](#data-recovery)
-- [Useful things](#useful-things)
-
+  * I am a 5th year graduate student working under the supervision of Rina Anno. 
+  * Office: CW 127
+  * Email: `{first name}{first letter of last name}@ksu.edu`
 </div>
 
 
@@ -75,9 +56,9 @@ I am also interested in things like Ramanujan-style number theory (e.g. partitio
 On the more applied side, I am curious about the work spearheaded by Yang-Hui He in using machine learning methods to investigate mathematical objects (e.g. 2101.06317, 2009.02544, 2006.16623, 2011.14442, 1812.02893)
 
 # Publications and Preprints
-1. Cheong, Winston, Alexander Doser, McKinley Gray, and Stephen F. Sawin. “Relationship of the Hennings and Chern-Simons Invariants For Higher Rank Quantum Groups.” ArXiv:1701.01423 [Math], July 24, 2018. http://arxiv.org/abs/1701.01423.
-2. Bittner, Daniel, Long Cheong, Dante Gates, and Hieu Nguyen. “New Approximations for the Area of the Mandelbrot Set.” Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555–72. https://doi.org/10.2140/involve.2017.10.555. (Preprint version: https://arxiv.org/abs/1410.1212)
-3. Nguyen, Hieu D., and Long G. Cheong. “New Convolution Identities for Hypergeometric Bernoulli Polynomials.” Journal of Number Theory 137 (April 1, 2014): 201–21. https://doi.org/10.1016/j.jnt.2013.11.008. (Preprint version: https://arxiv.org/abs/1401.2970)
+1. Cheong, Winston, Alexander Doser, McKinley Gray, and Stephen F. Sawin. “Relationship of the Hennings and Chern-Simons Invariants For Higher Rank Quantum Groups.” ArXiv:1701.01423 [Math], July 24, 2018. <http://arxiv.org/abs/1701.01423>.
+2. Bittner, Daniel, Long Cheong, Dante Gates, and Hieu Nguyen. “New Approximations for the Area of the Mandelbrot Set.” Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555–72. <https://doi.org/10.2140/involve.2017.10.555>. (Preprint version: <https://arxiv.org/abs/1410.1212>)
+3. Nguyen, Hieu D., and Long G. Cheong. “New Convolution Identities for Hypergeometric Bernoulli Polynomials.” Journal of Number Theory 137 (April 1, 2014): 201–21. <https://doi.org/10.1016/j.jnt.2013.11.008>. (Preprint version: <https://arxiv.org/abs/1401.2970>)
 
 # Presentations
 1. 2016 JMM poster session - "Relationship of the Hennings and Chern-Simons Invariant for Higher Rank Quantum Groups 
@@ -90,13 +71,13 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
 * Rowan's "College of Science and Mathematics STEM Excellence in Research Award" for poster presentation at 2014 Rowan Stem Symposium. (find link to...)
 * Outstanding Junior Scholarship recipient (2014?)
 * Dean's Recognition Award (2016?)
-* Rowan's "2016 Dean's Outstanding Senior Awards": https://csm.rowan.edu/students/dosa/dosa2016.html
+* Rowan's "2016 Dean's Outstanding Senior Awards": <https://csm.rowan.edu/students/dosa/dosa2016.html>
 
 -----
 
 # Data recovery
 
-* I have discovered that many past MIT Integration bee qualifiers have disappeared off the internet. I have transcribed them here: https://www.overleaf.com/read/mfzyzpqfsdws
+* I have discovered that many past MIT Integration bee qualifiers have disappeared off the internet. I have transcribed them here: <https://www.overleaf.com/read/mfzyzpqfsdws>
 * I am managing a repository for the KSU Quals [here](https://github.com/winstoncheong/KSU-Quals), which is better than the official version provided by KSU. It also houses older quals that have disappeared, some at the 800 level.
 
 # Useful things
