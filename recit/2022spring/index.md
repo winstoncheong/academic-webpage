@@ -22,7 +22,7 @@
 * [Recit 7](./recit7-notes.pdf) (Mar 01, 2022) We reviewed for Midterm 2: primarily went over the extra practice problems (verifying trig identities, transforming an angle to different quadrants).
   * For additional practice with verifying trig identities: 
     * [Exercises at the end of Section 2.3 in Nagy's textbook](https://www.math.ksu.edu/~nagy/math150/2022-02-TRIG-BOOK.pdf#page=93).
-    * [OpenStax Precalc 2e | Section 7.1: Solving Trigonometric Equations with Identities](https://openstax.org/books/precalculus-2e/pages/7-1-solving-trigonometric-equations-with-identities) (Try working through the examples and exercises). 
+    * [OpenStax Precalc 2e > Section 7.1: Solving Trigonometric Equations with Identities](https://openstax.org/books/precalculus-2e/pages/7-1-solving-trigonometric-equations-with-identities) (Try working through the examples and exercises). 
 * [Recit 8](./recit8-notes.jpg) (Mar 8, 2022) We covered material on HW 5: Reading off the equation of a sinusoidal function from its graph, the process for sketching a sinusoidal function.
   * The formulas and step by step process are written out in my formula sheet / notes (see below)
   * [Related Desmos link](https://www.desmos.com/calculator/157de3nq51)
@@ -46,7 +46,7 @@
 		* Mar 1, 2022: Added margin notes for the supplement formulas, add $\pi$ formulas and "formulas for negatives". Added separator for post-midterm-2 material. Added section on sketching sinusoidal functions (Covered in Hw 5. Section 2.5 of Nagy's textbook).
 
 ## Other Resources
-* [Paul Dawkins (Lamar U) | Cheatsheets](http://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) 
+* [Paul Dawkins (Lamar U) > Cheatsheets](http://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) 
 	* Has algebra, trig
 * Tyler Wallace's Beginning and Intermediate Algebra textbook [here](http://www.wallace.ccfaculty.org/book/book.html)
 	* Has good problems, and many solutions
