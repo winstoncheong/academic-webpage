@@ -31,6 +31,7 @@
     * [Tyler Wallace's online textbook](http://www.wallace.ccfaculty.org/book/book.html), Section 0.2.
     * [Blackpenredpen's video "100 Fractions"](https://www.youtube.com/watch?v=93_N3v9CIu0)
 * [Recit 9](./recit9-notes.pdf) (March 22, 2022) We covered material on HW6: Evaluating trig(inverse_trig()) and inverse_trig(trig()), finding solutions to elementary trig equations.
+* [Recit 10](./recit10-notes.pdf) (March 29, 2022) We covered material on HW7: Solving more complicated trig equations, dot product and skew product, vector geometry problems, turning angle and geometric angle.
 
 
 ## Videos
@@ -44,6 +45,7 @@
 	* This is a living document. Changes are still being made to it.
 	* Changelog: 
 		* Mar 1, 2022: Added margin notes for the supplement formulas, add $\pi$ formulas and "formulas for negatives". Added separator for post-midterm-2 material. Added section on sketching sinusoidal functions (Covered in Hw 5. Section 2.5 of Nagy's textbook).
+		* Mar 29, 2022: Added Section 3.1 Material (dot product and skew product, dot/skew product theorem, vector angle formulas). Added separator for post-midterm-3 material.
 
 ## Other Resources
 * [Paul Dawkins (Lamar U) > Cheatsheets](http://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) 
