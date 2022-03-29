@@ -37,7 +37,8 @@
 ## Videos
 * [Exam 1 Walkthrough](https://www.youtube.com/watch?v=DBF53IpfbCg)
 * [Practice Exam 2 Walkthrough](https://youtu.be/D3JkQ7bL1rc)
-* [Exam 2 Walkthrough](https://youtu.be/PRz257KYchY) (video is set up go public Monday, March 7 at 7AM)
+* [Exam 2 Walkthrough](https://youtu.be/PRz257KYchY)
+* [Practice Exam 3 Walkthrough](https://youtu.be/bEGzsWrD5Zc)
 
 ## Trig resources
 * My unit circle cheatsheet [here](https://www.overleaf.com/read/pjpffsrkrhfx)
@@ -45,7 +46,7 @@
 	* This is a living document. Changes are still being made to it.
 	* Changelog: 
 		* Mar 1, 2022: Added margin notes for the supplement formulas, add $\pi$ formulas and "formulas for negatives". Added separator for post-midterm-2 material. Added section on sketching sinusoidal functions (Covered in Hw 5. Section 2.5 of Nagy's textbook).
-		* Mar 29, 2022: Added Section 3.1 Material (dot product and skew product, dot/skew product theorem, vector angle formulas). Added separator for post-midterm-3 material.
+		* Mar 29, 2022: Added Section 3.1 Material (dot product and skew product, dot/skew product theorem, vector angle formulas). Added separator for post-midterm-3 material. Clarified how to read off values from sine graph. Added useful info for inverse trig functions.
 
 ## Other Resources
 * [Paul Dawkins (Lamar U) > Cheatsheets](http://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) 
