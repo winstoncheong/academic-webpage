@@ -2,14 +2,14 @@
 title: Winston Cheong's page
 ---
 
-<div class="name">Winston Cheong</div>
+<head>
 <style>
   .name {
     font-size: 20pt
   }
-	a:visited {
-		color: darkorchid
-	}
+  a:visited {
+    color: darkorchid
+  }
   .column {
     float: left; 
     width: 50%;
@@ -18,9 +18,15 @@ title: Winston Cheong's page
     width: 50%;
   }
 </style>
+</head>
+
+
+<div class="name">Winston Cheong</div>
 
 <div class="pic">
-  <!-- ![](assets/profile_pic.jpg) -->
+
+  <!-- ![profile](./assets/profile_pic.jpg) -->
+
   <!-- Not sure how to make compiler spit out the right output. Will just manually change output -->
   <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
 </div>
@@ -34,7 +40,7 @@ title: Winston Cheong's page
 This semester I am teaching Math 150: Plane Trigonometry. 
 
 ## Recitation Pages
-* [2022 Spring : Trig](./recit/2022spring)
+* [2022 Spring : Trig](./recit/2022spring/)
 * [2020 Spring : Calc 1](https://math.ksu.edu/~winstonc/recit/2020spring/)
 * [2019 Fall : Calc 1](https://math.ksu.edu/~winstonc/recit/2019fall/)
 
