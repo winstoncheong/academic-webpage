@@ -41,6 +41,7 @@
 * [Practice Exam 2 Walkthrough](https://youtu.be/D3JkQ7bL1rc)
 * [Exam 2 Walkthrough](https://youtu.be/PRz257KYchY)
 * [Practice Exam 3 Walkthrough](https://youtu.be/bEGzsWrD5Zc)
+* [Exam 3 Walkthrough](https://youtu.be/Map9YCA2TwU) (scheduled for Monday, April 11, 9 AM)
 
 ## Trig resources
 * My unit circle cheatsheet [here](https://www.overleaf.com/read/pjpffsrkrhfx)
