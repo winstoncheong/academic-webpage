@@ -81,5 +81,6 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
 
 # Useful things
 * Bookmarks repo...
+* Verdier's thesis [here](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
 
 
