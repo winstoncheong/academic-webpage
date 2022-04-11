@@ -34,7 +34,7 @@
 * [Recit 10](./recit10-notes.pdf) (March 29, 2022) We covered material on HW7: Solving more complicated trig equations, dot product and skew product, vector geometry problems, turning angle and geometric angle.
 	* Additional practice with solving trig equations (with worked solutions): https://tutorial.math.lamar.edu/Problems/CalcI/TrigEquations.aspx
 	* Additional unit circle practice (with worked solutions): https://tutorial.math.lamar.edu/Problems/CalcI/TrigFcns.aspx
-
+* [Recit 12](./recit12-notes.pdf) (April 12, 2022) We covered material on Hw8: Calculating area of paralleogram and triangle using vectors, calculating orthogonal projection, solving general triangles using law of sines and law of cosines.
 
 ## Videos
 * [Exam 1 Walkthrough](https://www.youtube.com/watch?v=DBF53IpfbCg)
