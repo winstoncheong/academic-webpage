@@ -35,13 +35,16 @@
 	* Additional practice with solving trig equations (with worked solutions): https://tutorial.math.lamar.edu/Problems/CalcI/TrigEquations.aspx
 	* Additional unit circle practice (with worked solutions): https://tutorial.math.lamar.edu/Problems/CalcI/TrigFcns.aspx
 * [Recit 12](./recit12-notes.pdf) (April 12, 2022) We covered material on Hw8: Calculating area of paralleogram and triangle using vectors, calculating orthogonal projection, solving general triangles using law of sines and law of cosines.
+  * Obtuse triangle examples:
+    - $a=15,\ b=7,\ c=9$
+    - $a=20,\ b=5,\ \widehat{C} = 5^\circ$
 
 ## Videos
 * [Exam 1 Walkthrough](https://www.youtube.com/watch?v=DBF53IpfbCg)
 * [Practice Exam 2 Walkthrough](https://youtu.be/D3JkQ7bL1rc)
 * [Exam 2 Walkthrough](https://youtu.be/PRz257KYchY)
 * [Practice Exam 3 Walkthrough](https://youtu.be/bEGzsWrD5Zc)
-* [Exam 3 Walkthrough](https://youtu.be/Map9YCA2TwU) (scheduled for Monday, April 11, 9 AM)
+* [Exam 3 Walkthrough](https://youtu.be/Map9YCA2TwU) 
 
 ## Trig resources
 * My unit circle cheatsheet [here](https://www.overleaf.com/read/pjpffsrkrhfx)
