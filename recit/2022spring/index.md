@@ -38,6 +38,7 @@
   * Obtuse triangle examples:
     - $a=15,\ b=7,\ c=9$
     - $a=20,\ b=5,\ \widehat{C} = 5^\circ$
+* [Recit 13](./recit13-notes.pdf) (April 19, 2022) We covered material on Hw9: Area of triangle giving side/angle info, problems involving sum/difference formulas for sine/cosine/tangent.
 
 ## Videos
 * [Exam 1 Walkthrough](https://www.youtube.com/watch?v=DBF53IpfbCg)
@@ -54,6 +55,7 @@
 		* Mar 1, 2022: Added margin notes for the supplement formulas, add $\pi$ formulas and "formulas for negatives". Added separator for post-midterm-2 material. Added section on sketching sinusoidal functions (Covered in Hw 5. Section 2.5 of Nagy's textbook).
 		* Mar 29, 2022: Added Section 3.1 Material (dot product and skew product, dot/skew product theorem, vector angle formulas). Added separator for post-midterm-3 material. Clarified how to read off values from sine graph. Added useful info for inverse trig functions.
 		* Apr 4, 2022: Added information on the problems of evaluating arctrig(trig()). Added formulas for how Nagy does this type of problem. Added more about vector geometry (unit direction vector, vector magnitude, deconstruction and reconstruction). Added material for hw 8 (orthogonality, projection, area of parallelogram and triangle, law of sines, law of cosines, general triangle solving)
+		* Apr 18, 2022: Added Triangle Area formulas (SAS and Heron's)
 
 ## Other Resources
 * [Paul Dawkins (Lamar U) > Cheatsheets](http://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx) 
