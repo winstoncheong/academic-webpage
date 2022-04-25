@@ -33,7 +33,7 @@ title: Winston Cheong's page
 
 * I am a 5th year graduate student working under the supervision of Rina Anno. 
 * Office: CW 127
-* Email: `{first name}{first letter of last name}@ksu.edu`
+* Email: `{first name}{last initial}@ksu.edu`
 
 
 # Teaching
@@ -67,20 +67,28 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
 5. 2013 Nov 20 - "Converging on the Area of the Mandelbrot set" (Rowan Mathematics Department Colloquium Series, joint presentation with Daniel Bittner) [slides](files/mandelbrot_presentation.pdf)
 
 # Awards
-* Rowan's "College of Science and Mathematics STEM Excellence in Research Award" for poster presentation at 2014 Rowan Stem Symposium. (find link to...)
-* Outstanding Junior Scholarship recipient (2014?)
-* Dean's Recognition Award (2016?)
 * Rowan's "2016 Dean's Outstanding Senior Awards": <https://csm.rowan.edu/students/dosa/dosa2016.html>
+* Dean's Recognition Award (2016?)
+* Outstanding Junior Scholarship recipient (2014?)
+* Rowan's "College of Science and Mathematics STEM Excellence in Research Award" for poster presentation at 2014 Rowan Stem Symposium. (find link to...)
 
 -----
 
 # Data recovery
 
-* I have discovered that many past MIT Integration bee qualifiers have disappeared off the internet. I have transcribed them here: <https://www.overleaf.com/read/mfzyzpqfsdws>
-* I am managing a repository for the KSU Quals [here](https://github.com/winstoncheong/KSU-Quals), which is better than the official version provided by KSU. It also houses older quals that have disappeared, some at the 800 level.
+* Past MIT Integration bee qualifiers, retypeset: <https://www.overleaf.com/read/mfzyzpqfsdws>
+* Older KSU quals (before Fall 2015): <https://github.com/winstoncheong/KSU-Quals/tree/main/older-system>
 
-# Useful things
-* Bookmarks repo...
+# Possibly useful things
 * Verdier's thesis [here](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
+* Bookmarks repo...
 
-
+## KSU Quals retypset
+I have retypeset the qual problems, for better viewing and workthrough. 
+Do let me know if any errors are spotted. 
+The original exam files can be found at <https://github.com/winstoncheong/KSU-Quals>.
+  
+* Topology qual (2015 June--2021 August) [here](./files/topology-current.pdf)
+* Algebra qual (2015 June--2021 August) [here](./files/algebra-current.pdf)
+* Analysis qual (2015 June--2021 August) [here](./files/analysis-current.pdf)
+* Geometry of Manifolds qual (1994 Fall--2003 Fall) [here](./files/geometry-of-manifolds.pdf)
