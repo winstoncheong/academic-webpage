@@ -82,9 +82,10 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
 # Possibly useful things
 * Verdier's thesis [here](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
 * Bookmarks repo...
+* My attempt at a [better math exam archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
 
 ## KSU Quals retypset
-I have retypeset the qual problems, for better viewing and workthrough. 
+I have retypeset the qual problems, for better viewing and workthrough.
 Do let me know if any errors are spotted. 
 The original exam files can be found at <https://github.com/winstoncheong/KSU-Quals>.
   
