@@ -81,8 +81,16 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
 
 # Possibly useful things
 * Verdier's thesis [here](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
-* Bookmarks repo...
+* Interactive math utilities by Pieter Belmans:
+    * https://www.fanography.info/
+    * https://www.grassmannian.info/
+    * https://www.hyperkaehler.info/
+    * https://superficie.info/#input
+    * http://pbelmans.ncag.info/cohomology-tables/
 * My attempt at a [better math exam archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
+* Bookmarks repo...
+
+
 
 ## KSU Quals retypset
 I have retypeset the qual problems, for better viewing and workthrough.
