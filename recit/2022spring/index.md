@@ -49,6 +49,7 @@
 * [Exam 2 Walkthrough](https://youtu.be/PRz257KYchY)
 * [Practice Exam 3 Walkthrough](https://youtu.be/bEGzsWrD5Zc)
 * [Exam 3 Walkthrough](https://youtu.be/Map9YCA2TwU)
+* [Practice Final Walkthough](https://youtu.be/9mBWHoq3oPU)
 
 ## Trig resources
 
