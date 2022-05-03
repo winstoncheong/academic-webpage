@@ -41,6 +41,7 @@
     * $a=20,\ b=5,\ \widehat{C} = 5^\circ$
 * [Recit 13](./recit13-notes.pdf) (April 19, 2022) We covered material on Hw9: Area of triangle giving side/angle info, problems involving sum/difference formulas for sine/cosine/tangent.
 * [Recit 14](./recit14-notes.pdf) (April 26, 2022) We covered material on Hw10: Problems involving double-angle, half-angle, product-to-sum, and sum-to-product formulas.
+* [Recit 15](./recit15-notes.pdf) (May 3, 2022) We covered material on Hw11: Converting representations of complex numbers, using De Moivre's formula for powers and roots of complex numbers, finding all roots (real and complex) of a polynomial.
 
 ## Videos
 
@@ -62,6 +63,7 @@
     * Apr 4, 2022: Added information on the problems of evaluating arctrig(trig()). Added formulas for how Nagy does this type of problem. Added more about vector geometry (unit direction vector, vector magnitude, deconstruction and reconstruction). Added material for hw 8 (orthogonality, projection, area of parallelogram and triangle, law of sines, law of cosines, general triangle solving)
     * Apr 18, 2022: Added Triangle Area formulas (SAS and Heron's)
     * Apr 26, 2022: Added section on formula combining sine and cosine of same frequency. Added warning on the $\pm$ in the half-angle formulas. Edited sum-to-product formulas to make things less error prone.
+    * May 3, 2022: Added material on complex numbers (Converting between polar and cartesian, De Moivre's formula, roots of complex numbers)
 
 ## Other Resources
 
