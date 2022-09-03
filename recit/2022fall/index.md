@@ -11,6 +11,7 @@
 * Recitation Instructor:
   * Winston Cheong
   * winstonc@ksu.edu
+  * Office Hours: M 2:30--4:30 CW 127 & by appointment
   * [Zoom personal meeting room](https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09)
 
 Most material for this course is on Canvas.
@@ -18,6 +19,7 @@ Most material for this course is on Canvas.
 ## Recitation Supplement
 
 * Hw 2
+  * Examples for Problems 10 (b), 10 (d), 11 [here](https://www.overleaf.com/read/ynfvpfmwvfwr)
 * Hw 3
   * Integral of $\sqrt{x^2 + a^2}$ writeup [here](https://www.overleaf.com/read/nzhzfwfwrxkc) (I strongly recommend you attempt it for yourself first.)
   * For #12 the formulas to use are on the [cheat sheet for Test 1](https://www.math.ksu.edu/~blanki/CheatT1.pdf)
