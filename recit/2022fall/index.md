@@ -31,6 +31,11 @@ Most material for this course is on Canvas.
 * [3Blue1Brown / Khan Academy : Multivariable calc playlist](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) or through [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 * [Paul's Online Notes > Calc 3](https://tutorial.math.lamar.edu/classes/calciii/calciii.aspx)
 
+## KSU Math Exam Archive
+
+* <https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc3/>
+* <https://archive.math.ksu.edu/course?course=math222>
+
 ----
 
 ## Recitation Grade (125 pts out of 900)
