@@ -31,13 +31,13 @@ title: Winston Cheong's page
   <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
 </div>
 
-* I am a 5th year graduate student working under the supervision of Rina Anno. 
+* I am a 6th year graduate student working under the supervision of Rina Anno. 
 * Office: CW 127
 * Email: `{first name}{last initial}@ksu.edu`
 
 # Teaching
 
-This semester I am teaching Math 150: Plane Trigonometry. 
+This semester I am teaching Math 222: Calc 3
 
 ## Recitation Pages
 
