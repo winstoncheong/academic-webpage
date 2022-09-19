@@ -25,6 +25,7 @@ Most material for this course is on Canvas.
   * For #12 the formulas to use are on the [cheat sheet for Test 1](https://www.math.ksu.edu/~blanki/CheatT1.pdf)
 * [Post-Exam 1 comments](https://www.overleaf.com/read/scmbncvbjthz)
 * Hw 4
+  * [On multidimenisonal limits](https://www.overleaf.com/read/nhwjrjhjgwsz)
 
 ## Other Resources
 
