@@ -27,6 +27,11 @@ Most material for this course is on Canvas.
 * Hw 4
   * [On multidimenisonal limits](https://www.overleaf.com/read/nhwjrjhjgwsz)
 
+### Interesting tidbits
+
+* ["Failure" of Clairaut's theorem](https://calculus.subwiki.org/wiki/Failure_of_Clairaut%27s_theorem_where_both_mixed_partials_are_defined_but_not_equal)
+* ["Failure" of Fubini's theorem](https://math.jhu.edu/~jmb/note/nofub.pdf)
+
 ## Other Resources
 
 * [Professor Leonard's Calc 3 Youtube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
