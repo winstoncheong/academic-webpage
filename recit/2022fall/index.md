@@ -26,6 +26,8 @@ Most material for this course is on Canvas.
 * [Post-Exam 1 comments](https://www.overleaf.com/read/scmbncvbjthz)
 * Hw 4
   * [On multidimenisonal limits](https://www.overleaf.com/read/nhwjrjhjgwsz)
+* Hw 6
+  * For visualizing tangent planes: [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html#) (you'll find [this video](https://www.youtube.com/watch?v=KzQuvEXoDI0) helpful)
 
 ### Interesting tidbits
 
