@@ -34,15 +34,30 @@ Most material for this course is on Canvas.
 * ["Failure" of Clairaut's theorem](https://calculus.subwiki.org/wiki/Failure_of_Clairaut%27s_theorem_where_both_mixed_partials_are_defined_but_not_equal)
 * ["Failure" of Fubini's theorem](https://math.jhu.edu/~jmb/note/nofub.pdf)
 
+## Practice Exams
+
+These are taken from [Dr. Blank's 2020 Spring page](https://www.math.ksu.edu/~blanki/indexM222Spring2020.html)
+
+* [Practice Test #1](Prac1.pdf); [solutions](AnsPrac1.pdf)
+* [Practice Test #2](Prac2F18.pdf); [solutions](AnsPrac2Combined.pdf)
+* [Practice Test #3](Prac3F15.pdf); [solutions](AnsPrac3.pdf)
+  * [2018 Fall Test #3 Answers](AnsT3.pdf)
+* [Practice Final](PracFin.pdf); [solutions](AnsPracFin.pdf)
+
+* [Cheat Sheet for Test #1](Cheat1.pdf)
+* [Cheat Sheet for Test #2](CheatT2.pdf)
+* [Cheat Sheet for Final](FinalCheatSheet.pdf)
+
 ## Other Resources
 
 * [Professor Leonard's Calc 3 Youtube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
-* [3Blue1Brown / Khan Academy : Multivariable calc playlist](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) or through [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
+* [3Blue1Brown / Khan Academy : Multivariable calc Youtube Playlist](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) or through [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 * [Paul's Online Notes > Calc 3](https://tutorial.math.lamar.edu/classes/calciii/calciii.aspx)
 
 ## KSU Math Exam Archive
 
 * <https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc3/>
+  * 2018 Fall has Exam 2 and Final (Dr. Blank coordinated this semester)
 * <https://archive.math.ksu.edu/course?course=math222>
 
 ----
