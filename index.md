@@ -71,19 +71,19 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
 4. 2014 Rowan STEM Symposium - Poster presentation "Converging on the Area of the Mandelbrot Set"
 5. 2013 Nov 20 - "Converging on the Area of the Mandelbrot set" (Rowan Mathematics Department Colloquium Series, joint presentation with Daniel Bittner) [slides](files/mandelbrot_presentation.pdf)
 
-# Awards
+<!-- # Awards
 
 * Rowan's "2016 Dean's Outstanding Senior Awards": <https://csm.rowan.edu/students/dosa/dosa2016.html>
 * Dean's Recognition Award (2016?)
 * Outstanding Junior Scholarship recipient (2014?)
 * Rowan's "College of Science and Mathematics STEM Excellence in Research Award" for poster presentation at 2014 Rowan Stem Symposium. (find link to...)
-
+ -->
 -----
 
-# Data recovery
+<!-- # Data recovery -->
 
-* Past MIT Integration bee qualifiers, retypeset: <https://www.overleaf.com/read/mfzyzpqfsdws>
-* Older KSU quals (before Fall 2015): <https://github.com/winstoncheong/KSU-Quals/tree/main/older-system>
+<!-- * Past MIT Integration bee qualifiers, retypeset: <https://www.overleaf.com/read/mfzyzpqfsdws> -->
+<!-- * Older KSU quals (before Fall 2015): <https://github.com/winstoncheong/KSU-Quals/tree/main/older-system> -->
 
 # Possibly useful things
 
@@ -94,10 +94,10 @@ On the more applied side, I am curious about the work spearheaded by Yang-Hui He
     * https://www.hyperkaehler.info/
     * https://superficie.info/#input
     * http://pbelmans.ncag.info/cohomology-tables/
-* My attempt at a [better math exam archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
-* Bookmarks repo...
+* [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
+<!-- * Bookmarks repo... -->
 
-## KSU Quals retypset
+<!-- ## KSU Quals retypset
 
 I have retypeset the qual problems, for better viewing and workthrough.
 Do let me know if any errors are spotted.
@@ -107,3 +107,4 @@ The original exam files can be found at <https://github.com/winstoncheong/KSU-Qu
 * Algebra qual (2015 June--2021 August) [here](./files/algebra-current.pdf)
 * Analysis qual (2015 June--2021 August) [here](./files/analysis-current.pdf)
 * Geometry of Manifolds qual (1994 Fall--2003 Fall) [here](./files/geometry-of-manifolds.pdf)
+ -->
