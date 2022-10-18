@@ -28,6 +28,8 @@ Most material for this course is on Canvas.
   * [On multidimenisonal limits](https://www.overleaf.com/read/nhwjrjhjgwsz)
 * Hw 6
   * For visualizing tangent planes: [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html#) (you'll find [this video](https://www.youtube.com/watch?v=KzQuvEXoDI0) helpful)
+* Hw 8
+  * [Iterated integral example](https://www.overleaf.com/read/zrfvzpmxhfst)
 
 ### Interesting tidbits
 
@@ -53,6 +55,15 @@ These are taken from [Dr. Blank's 2020 Spring page](https://www.math.ksu.edu/~bl
 * [Professor Leonard's Calc 3 Youtube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 * [3Blue1Brown / Khan Academy : Multivariable calc Youtube Playlist](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) or through [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 * [Paul's Online Notes > Calc 3](https://tutorial.math.lamar.edu/classes/calciii/calciii.aspx)
+
+### Integration Review
+
+I highly recommend the things made by [blackpenredpen](https://www.blackpenredpen.com/calc2).
+Particularly useful are his:
+* [Ultimate Calc 2 integral starter packet](https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=XOUwIdufY9Y)
+* [100 integrals packet](https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=dgm4-3-Iv3s)
+* [Integration by parts worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf)
+* [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf)
 
 ## KSU Math Exam Archive
 
