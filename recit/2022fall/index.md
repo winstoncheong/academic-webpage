@@ -30,6 +30,8 @@ Most material for this course is on Canvas.
   * For visualizing tangent planes: [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html#) (you'll find [this video](https://www.youtube.com/watch?v=KzQuvEXoDI0) helpful)
 * Hw 8
   * [Iterated integral example](https://www.overleaf.com/read/zrfvzpmxhfst)
+* Hw 9
+  * [Triangular pyramid volume integral example](https://www.overleaf.com/read/mmdjwxfpmqkj)
 
 ### Interesting tidbits
 
@@ -61,7 +63,7 @@ These are taken from [Dr. Blank's 2020 Spring page](https://www.math.ksu.edu/~bl
 I highly recommend the things made by [blackpenredpen](https://www.blackpenredpen.com/calc2).
 Particularly useful are his:
 * [Ultimate Calc 2 integral starter packet](https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=XOUwIdufY9Y)
-* [100 integrals packet](https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=dgm4-3-Iv3s)
+* [100 integrals packet](https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=dgm4-3-Iv3s) and [video transcript](https://www.blackpenredpen.com/_files/ugd/287ba5_62e3789012b14a77ae31c0986f993ecc.pdf)
 * [Integration by parts worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf)
 * [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf)
 
