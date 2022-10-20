@@ -65,7 +65,8 @@ Particularly useful are his:
 * [Ultimate Calc 2 integral starter packet](https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=XOUwIdufY9Y)
 * [100 integrals packet](https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=dgm4-3-Iv3s) and [video transcript](https://www.blackpenredpen.com/_files/ugd/287ba5_62e3789012b14a77ae31c0986f993ecc.pdf)
 * [Integration by parts worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf)
-* [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf)
+* [Trig integrals worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_4c6cd42fbf9a4cc58be455f39ef6267e.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX) might help)
+* [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo) might help)
 
 ## KSU Math Exam Archive
 
