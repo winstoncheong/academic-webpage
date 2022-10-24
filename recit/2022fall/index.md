@@ -32,11 +32,26 @@ Most material for this course is on Canvas.
   * [Iterated integral example](https://www.overleaf.com/read/zrfvzpmxhfst)
 * Hw 9
   * [Triangular pyramid volume integral example](https://www.overleaf.com/read/mmdjwxfpmqkj)
+* Hw 10
+  * The Jacobian is needed in this assignment. Some discussion on it is here:
+    * <https://tutorial.math.lamar.edu/classes/calciii/changeofvariables.aspx>
+    * <https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_14%3A_Multiple_Integration/14.7%3A_Change_of_Variables_in_Multiple_Integrals_(Jacobians)>
+    * Though the main thing is to remember is that:
+      * in polar, $dA = r \ dr\ d\theta$
+      * in cylindrical, $dV = r\ dr\ d\theta \ dz$
+      * in spherical, $dV = \rho^2 \sin \phi \ d\rho \ d\phi \ d\theta$
+* [Matlab Rootfinding Assignment comments](https://www.overleaf.com/read/zvbktkmnqsjp)
 
 ### Interesting tidbits
 
 * ["Failure" of Clairaut's theorem](https://calculus.subwiki.org/wiki/Failure_of_Clairaut%27s_theorem_where_both_mixed_partials_are_defined_but_not_equal)
 * ["Failure" of Fubini's theorem](https://math.jhu.edu/~jmb/note/nofub.pdf)
+
+### Useful trig for integration
+
+* $\sin x \cos x = \frac12 \sin(2x)$
+* $\sin^2 x = \frac12(1-\cos(2x))$
+* $\cos^2 x = \frac12(1+\cos(2x))$
 
 ## Practice Exams
 
@@ -62,11 +77,19 @@ These are taken from [Dr. Blank's 2020 Spring page](https://www.math.ksu.edu/~bl
 
 I highly recommend the things made by [blackpenredpen](https://www.blackpenredpen.com/calc2).
 Particularly useful are his:
+
 * [Ultimate Calc 2 integral starter packet](https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=XOUwIdufY9Y)
 * [100 integrals packet](https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=dgm4-3-Iv3s) and [video transcript](https://www.blackpenredpen.com/_files/ugd/287ba5_62e3789012b14a77ae31c0986f993ecc.pdf)
 * [Integration by parts worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf)
 * [Trig integrals worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_4c6cd42fbf9a4cc58be455f39ef6267e.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX) might help)
 * [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo) might help)
+
+### Matlab Documentation
+
+These links may ask you to make an account. Just make one that's affiliated with KSU.
+
+* Web version: <https://www.mathworks.com/help/index.html>
+* PDF version: <https://www.mathworks.com/help/pdf_doc/matlab/index.html>
 
 ## KSU Math Exam Archive
 
