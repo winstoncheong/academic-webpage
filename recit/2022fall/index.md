@@ -41,6 +41,8 @@ Most material for this course is on Canvas.
       * in cylindrical, $dV = r\ dr\ d\theta \ dz$
       * in spherical, $dV = \rho^2 \sin \phi \ d\rho \ d\phi \ d\theta$
 * [Matlab Rootfinding Assignment comments](https://www.overleaf.com/read/zvbktkmnqsjp)
+* Hw 11
+  * [Vector field pics](vect-field-pics.pdf) for problem #2
 
 ### Interesting tidbits
 
