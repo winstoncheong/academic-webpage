@@ -40,6 +40,7 @@ Most material for this course is on Canvas.
       * in polar, $dA = r \ dr\ d\theta$
       * in cylindrical, $dV = r\ dr\ d\theta \ dz$
       * in spherical, $dV = \rho^2 \sin \phi \ d\rho \ d\phi \ d\theta$
+  * Visuals for some of the problems: <https://www.wolframcloud.com/obj/winstonc/Published/calc3-hw10-visuals.nb>
 * [Matlab Rootfinding Assignment comments](https://www.overleaf.com/read/zvbktkmnqsjp)
 * Hw 11
   * [Vector field pics](vect-field-pics.pdf) for problem #2
