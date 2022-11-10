@@ -44,6 +44,7 @@ Most material for this course is on Canvas.
 * [Matlab Rootfinding Assignment comments](https://www.overleaf.com/read/zvbktkmnqsjp)
 * Hw 11
   * [Vector field pics](vect-field-pics.pdf) for problem #2
+* [Solutions to Last Part of Practice Exam 3](https://www.overleaf.com/read/kzbhfhvbkfqy)
 
 ### Interesting tidbits
 
