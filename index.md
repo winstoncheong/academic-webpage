@@ -37,10 +37,11 @@ title: Winston Cheong's page
 
 # Teaching
 
-This semester I am teaching Math 222: Calc 3
+This semester I am teaching Math 221: Calc 2
 
 ## Recitation Pages
 
+* [2023 Spring : Calc 2](./recit/2023spring/)
 * [2022 Fall : Calc 3](./recit/2022fall/)
 * [2022 Spring : Trig](./recit/2022spring/)
 * [2020 Spring : Calc 1](https://math.ksu.edu/~winstonc/recit/2020spring/)
