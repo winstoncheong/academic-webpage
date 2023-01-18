@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>2023 Spring &verbar; Calc 2</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+/* From extension ms-toolsai.jupyter */
+/* These classnames are inherited from bootstrap, but are present in most notebook renderers */
+
+.alert {
+    width: auto;
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.alert > *:last-child {
+    margin-bottom: 0;
+}
+#preview > .alert:last-child {
+    /* Prevent this being set to zero by the default notebook stylesheet */
+    padding-bottom: 1em;
+}
+
+.alert-success {
+    /* Note there is no suitable color available, so we just copy "info" */
+    background-color: var(--theme-info-background);
+    color: var(--theme-info-foreground);
+}
+.alert-info {
+    background-color: var(--theme-info-background);
+    color: var(--theme-info-foreground);
+}
+.alert-warning {
+    background-color: var(--theme-warning-background);
+    color: var(--theme-warning-foreground);
+}
+.alert-danger {
+    background-color: var(--theme-error-background);
+    color: var(--theme-error-foreground);
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="2023-spring--calc-2">2023 Spring | Calc 2</h1>
+<style>
+ a:visited {
+  color: darkorchid
+ }
+</style>
+<ul>
+<li>Course Coordinator:
+<ul>
+<li>Dr. Lino Amorim</li>
+</ul>
+</li>
+<li>Recitation Instructor:
+<ul>
+<li>Winston Cheong</li>
+<li><a href="mailto:winstonc@ksu.edu">winstonc@ksu.edu</a></li>
+<li>Recitations: MW 11:30--12:30 and 1:30-2:30</li>
+<li>Office Hours: MW 12:30-1:30 &amp; by appointment</li>
+<li><a href="https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09">Zoom personal meeting room</a></li>
+</ul>
+</li>
+</ul>
+<p>Most material for this course is on Canvas.</p>
+<h2 id="recitation-schedule">Recitation Schedule</h2>
+<p>Additional problems from the OpenStax Calc 2 textbook are listed below. A subset of them will be worked through in recitation.</p>
+<ul>
+<li>Recit 1 (Wed, Jan 18): U-substitution
+<ul>
+<li>Section 1.5: 277, 280, 282, 297</li>
+<li>Section 1.6: 331, 334, 352</li>
+<li>Section 1.7: 412, 414, 423, 424, 429</li>
+</ul>
+</li>
+<li>Recit 2 (Mon, Jan 23): Integration by parts
+<ul>
+<li>Section 3.1: 26, 27, 29, 32, 36, 38</li>
+</ul>
+</li>
+<li>Recit 3 (Wed, Jan 25): Trig integrals
+<ul>
+<li>Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102</li>
+</ul>
+</li>
+<li>Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
+<ul>
+<li>Section 3.3: 134, 138, 139, 140
+<ul>
+<li>147 will be used as ~4d~</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Recit 5 (Wed, Feb 1): Partial Fractions / not sure
+<ul>
+<li>Section 3.4:</li>
+</ul>
+</li>
+<li>Recit 6 (Mon, Feb 6): Partial Fractions cont</li>
+</ul>
+<h2 id="other-resources">Other Resources</h2>
+<ul>
+<li><a href="https://tutorial.math.lamar.edu/classes/calcii/calcii.aspx">Paul's Online Notes &gt; Calc 2</a></li>
+<li><a href="https://www.blackpenredpen.com/calc2">blackpenredpen &gt; Calc 2</a></li>
+</ul>
+<h2 id="math-background-refresher-calc-1--trig">Math background refresher (Calc 1 &amp; Trig)</h2>
+<ul>
+<li><a href="https://www.blackpenredpen.com/calc2">blackpenredpen &gt; Calc 2</a>
+<ul>
+<li>Under &quot;Videos with Worksheets&quot;, work through &quot;Watch This Before Calc 2&quot;</li>
+<li>Under &quot;Problem Set #1&quot;, work through &quot;So you think you can take the derivative&quot;, and &quot;Integral Battles&quot;</li>
+</ul>
+</li>
+<li><a href="https://tutorial.math.lamar.edu/classes/calci/calci.aspx">Paul's Online Notes &gt; Calc 1</a>
+<ul>
+<li>Has worked out practice problems</li>
+</ul>
+</li>
+<li>Cheat sheets
+<ul>
+<li><a href="https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx">Paul's Online Notes &gt; Cheat Sheets &amp; Tables</a>
+<ul>
+<li>Look at &quot;Common Derivatives and Integrals&quot; and &quot;Trig Cheat Sheet&quot;. Maybe also &quot;Complete Calculus Cheat Sheet&quot;</li>
+</ul>
+</li>
+<li><a href="https://www.overleaf.com/read/pjpffsrkrhfx">My Unit Circle cheatsheet</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="integration-practice">Integration practice</h2>
+<p>I highly recommend the things made by <a href="https://www.blackpenredpen.com/calc2">blackpenredpen</a>.
+Particularly useful are his:</p>
+<ul>
+<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf">Ultimate Calc 2 integral starter packet</a> with accompanying <a href="https://www.youtube.com/watch?v=XOUwIdufY9Y">video solutions</a></li>
+<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf">100 integrals packet</a> with accompanying <a href="https://www.youtube.com/watch?v=dgm4-3-Iv3s">video solutions</a> and <a href="https://www.blackpenredpen.com/_files/ugd/287ba5_62e3789012b14a77ae31c0986f993ecc.pdf">video transcript</a></li>
+<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf">Integration by parts worksheet</a></li>
+<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_4c6cd42fbf9a4cc58be455f39ef6267e.pdf">Trig integrals worksheet</a> (<a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX">this playlist</a> might help)</li>
+<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf">Trig sub worksheet</a> (<a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo">this playlist</a> might help)</li>
+</ul>
+
+        
+        
+    </body>
+    </html>
