@@ -11,15 +11,15 @@
 * Recitation Instructor:
   * Winston Cheong
   * winstonc@ksu.edu
-  * Recitations: MW 11:30--12:30 and 1:30-2:30
-  * Office Hours: MW 12:30-1:30 & by appointment
+  * Recitations: MW 11:30&ndash;12:30 and 1:30&ndash;2:30
+  * Office Hours: MW 12:30&ndash;1:30 & by appointment
   * [Zoom personal meeting room](https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09)
 
 Most material for this course is on Canvas.
 
 ## Recitation Schedule
 
-Additional problems from the OpenStax Calc 2 textbook are listed below. A subset of them will be worked through in recitation.
+Additional problems from the OpenStax Calc 2 textbook that seem decent / relevant are listed below. A subset of them will be worked through in recitation.
 
 * Recit 1 (Wed, Jan 18): U-substitution
   * Section 1.5: 277, 280, 282, 297
@@ -27,6 +27,7 @@ Additional problems from the OpenStax Calc 2 textbook are listed below. A subset
   * Section 1.7: 412, 414, 423, 424, 429
 * Recit 2 (Mon, Jan 23): Integration by parts
   * Section 3.1: 26, 27, 29, 32, 36, 38
+    * #30 will be used as ~5e~
 * Recit 3 (Wed, Jan 25): Trig integrals
   * Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102
 * Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
