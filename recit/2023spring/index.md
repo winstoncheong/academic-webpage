@@ -28,6 +28,8 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 2 (Mon, Jan 23): Integration by parts
   * Section 3.1: 26, 27, 29, 32, 36, 38
     * #30 will be used as ~5e~
+  * Supplemental video on the DI method / layout:
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8xPfNuXLSwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 * Recit 3 (Wed, Jan 25): Trig integrals
   * Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102
 * Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
