@@ -31,7 +31,10 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * Supplemental video on the DI method / layout:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8xPfNuXLSwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 * Recit 3 (Wed, Jan 25): Trig integrals
+  * [Writeup of the cases for $\int \sin^p(x) \cos^q(x) \ dx$ and $\int \tan^p(x) \sec^q(x) \ dx$](https://www.overleaf.com/read/nhsjpxjqjkpd)
   * Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102
+  * Recommended Exercise: Rederive the reduction formulas for $\sin^n, \cos^n, \tan^n, \sec^n$ given in class. Also, check that they still work when $n=2$ (assuming that $\sin^0 = \cos^0 = \tan^0 = \sec^0 = 1$).
+    * Do give this a go, before looking at my [writeup of this exercise](https://www.overleaf.com/read/wqzshgqrpdjm)
 * Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
   * Section 3.3: 134, 138, 139, 140
     * 147 will be used as ~4d~
