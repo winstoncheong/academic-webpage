@@ -36,6 +36,7 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * Recommended Exercise: Rederive the reduction formulas for $\sin^n, \cos^n, \tan^n, \sec^n$ given in class. Also, check that they still work when $n=2$ (assuming that $\sin^0 = \cos^0 = \tan^0 = \sec^0 = 1$).
     * Do give this a go, before looking at my [writeup of this exercise](https://www.overleaf.com/read/wqzshgqrpdjm)
 * Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
+  * [Trig Sub Table](https://www.overleaf.com/read/jjhvrxhqzzgg)
   * Section 3.3: 134, 138, 139, 140
     * 147 will be used as ~4d~
 * Recit 5 (Wed, Feb 1): Partial Fractions / not sure
