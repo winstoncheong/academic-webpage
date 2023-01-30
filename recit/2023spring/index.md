@@ -39,9 +39,10 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * [Trig Sub Table](https://www.overleaf.com/read/jjhvrxhqzzgg)
   * Section 3.3: 134, 138, 139, 140
     * 147 will be used as ~4d~
-* Recit 5 (Wed, Feb 1): Partial Fractions / not sure
-  * Section 3.4:
-* Recit 6 (Mon, Feb 6): Partial Fractions cont
+* Recit 5 (Wed, Feb 1): Polynomial factorization, integrals of rational functions / Partial fraction decomposition
+* Recit 6 (Mon, Feb 6): Partial fraction decomposition cont
+  * Section 3.4: 197, 199, 200, 205, 206, 207, 211, 212
+    * 199, 206, 205, 207 will be used as ~3 A-E~
 
 ## Other Resources
 
