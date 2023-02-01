@@ -14,10 +14,11 @@
   * Recitations: MW 11:30&ndash;12:30 and 1:30&ndash;2:30
   * Office Hours: MW 12:30&ndash;1:30 & by appointment
   * [Zoom personal meeting room](https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09)
+* [Help Session schedule](https://www.math.ksu.edu/student-success/undergraduate-success/help/helpsess.html) (manned by math grad students, in Cardwell 041)
 
 Most material for this course is on Canvas.
 
-## Recitation Schedule
+## Recitation Schedule / Notes
 
 Additional problems from the OpenStax Calc 2 textbook that seem decent / relevant are listed below. A subset of them will be worked through in recitation.
 
@@ -40,6 +41,10 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * Section 3.3: 134, 138, 139, 140
     * 147 will be used as ~4d~
 * Recit 5 (Wed, Feb 1): Polynomial factorization, integrals of rational functions / Partial fraction decomposition
+  * Factorization formulas for difference of squares, sum and difference of cubes
+  * The discriminant of a quadratic, and how it allows us to check factorizability over $\mathbb{R}$
+  * Rational root theorem
+  * Polynomial long division vs. synthetic division
 * Recit 6 (Mon, Feb 6): Partial fraction decomposition cont
   * Section 3.4: 197, 199, 200, 205, 206, 207, 211, 212
     * 199, 206, 205, 207 will be used as ~3 A-E~
@@ -48,6 +53,10 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 
 * [Paul's Online Notes > Calc 2](https://tutorial.math.lamar.edu/classes/calcii/calcii.aspx)
 * [blackpenredpen > Calc 2](https://www.blackpenredpen.com/calc2)
+
+### Computer Aid (For *checking* answers)
+
+* [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ## Math background refresher (Calc 1 & Trig)
 
