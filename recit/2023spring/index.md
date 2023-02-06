@@ -48,6 +48,18 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 6 (Mon, Feb 6): Partial fraction decomposition cont
   * Section 3.4: 197, 199, 200, 205, 206, 207, 211, 212
     * 199, 206, 205, 207 will be used as ~3 A-E~
+* Recit 7 (Wed, Feb 8): Numerical integration
+  * [Brief notes](https://www.overleaf.com/read/sdrkwkrxchyc)
+* Recit 8 (Mon, Feb 13): Improper Integrals
+* Recit 9 (Wed, Feb 15): Arclength, Surface area
+* Recit 10 (Mon, Feb 20): Work
+* Recit 11 (Wed, Feb 22): Center of mass
+* Recit 12 (Mon, Feb 27): Review for Midterm 2
+* Recit 13 (Wed, Mar 1): Hyperbolic functions
+
+## My Exam Solutions
+
+* [Midterm 1](https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0)
 
 ## Other Resources
 
