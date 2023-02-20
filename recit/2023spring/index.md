@@ -14,7 +14,7 @@
   * Recitations: MW 11:30&ndash;12:30 and 1:30&ndash;2:30
   * Office Hours: MW 12:30&ndash;1:30 & by appointment
   * [Zoom personal meeting room](https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09)
-* [Help Session schedule](https://www.math.ksu.edu/student-success/undergraduate-success/help/helpsess.html) (manned by math grad students, in Cardwell 041)
+* [Help Session schedule](https://www.math.ksu.edu/student-success/undergraduate-success/help/helpsess.html) (staffed by math grad students, in Cardwell 041)
 
 Most material for this course is on Canvas.
 
@@ -52,9 +52,14 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * [Brief notes](https://www.overleaf.com/read/sdrkwkrxchyc)
 * Recit 8 (Mon, Feb 13): Improper Integrals
 * Recit 9 (Wed, Feb 15): Arclength, Surface area
+  * The formulas I explained in recitation were taken from [Paul's Online Notes > Surface Area](https://tutorial.math.lamar.edu/classes/calcii/surfacearea.aspx)
+  * Extra: [Gabriel's Horn](https://www.wikiwand.com/en/Gabriel%27s_horn), a mathematical object with infinite surface area but finite volume. After one has learned how to compute improper integrals, and knows the formulas for surface area and volume of a solid of revolution, this assertion can be checked.
 * Recit 10 (Mon, Feb 20): Work
+  * Due to the snow day, this topic is now optional and will not be in the exams. I will still cover it in recitation.
+  * [Lecture 10 with solutions](https://www.dropbox.com/s/f8am1t72huaesvt/lect-10-sol.pdf?dl=0)
+  * [Paul's Online Notes > Work](https://tutorial.math.lamar.edu/Classes/CalcI/Work.aspx)
 * Recit 11 (Wed, Feb 22): Center of mass
-* Recit 12 (Mon, Feb 27): Review for Midterm 2
+* Recit 12 (Mon, Feb 27): Review for Midterm 2 (on Tues, Feb 28)
 * Recit 13 (Wed, Mar 1): Hyperbolic functions
 
 ## My Exam Solutions
