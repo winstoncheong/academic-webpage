@@ -59,7 +59,10 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * [Lecture 10 with solutions](https://www.dropbox.com/s/f8am1t72huaesvt/lect-10-sol.pdf?dl=0)
   * [Paul's Online Notes > Work](https://tutorial.math.lamar.edu/Classes/CalcI/Work.aspx)
 * Recit 11 (Wed, Feb 22): Center of mass
+  * [Formulas all on one page](https://www.overleaf.com/read/wzsvhrzrgfvs)
+  * [Hw 6 Problem 6 solution](https://www.dropbox.com/s/vqm7v0wfqiaw6sq/hw6.6.pdf?dl=0) (Wrote this up because the values are nasty)
 * Recit 12 (Mon, Feb 27): Review for Midterm 2 (on Tues, Feb 28)
+  * [Midterm 2 Review Solutions](https://www.dropbox.com/s/odsm9afh77fc1ls/review2-sol.pdf?dl=0) (Try the problems for yourself, before referring to this!)
 * Recit 13 (Wed, Mar 1): Hyperbolic functions
 
 ## My Exam Solutions
