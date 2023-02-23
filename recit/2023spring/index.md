@@ -65,6 +65,12 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
   * [Midterm 2 Review Solutions](https://www.dropbox.com/s/odsm9afh77fc1ls/review2-sol.pdf?dl=0) (Try the problems for yourself, before referring to this!)
 * Recit 13 (Wed, Mar 1): Hyperbolic functions
 
+## KSU Math Exam Archive
+
+<https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc2/>
+
+> Particularly relevant are the 2020 Spring, 2019 Spring, and 2018 Spring semesters.
+
 ## My Exam Solutions
 
 * [Midterm 1](https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0)
