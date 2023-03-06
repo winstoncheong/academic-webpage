@@ -18,6 +18,19 @@
 
 Most material for this course is on Canvas.
 
+## Table of Contents
+
+- [2023 Spring | Calc 2](#2023-spring--calc-2)
+  - [Table of Contents](#table-of-contents)
+  - [Recitation Schedule / Notes](#recitation-schedule--notes)
+  - [KSU Math Exam Archive](#ksu-math-exam-archive)
+  - [My Exam Solutions](#my-exam-solutions)
+  - [Other Resources](#other-resources)
+    - [Computer Aid (For *checking* answers)](#computer-aid-for-checking-answers)
+  - [Math background refresher (Calc 1 \& Trig)](#math-background-refresher-calc-1--trig)
+  - [Integration practice](#integration-practice)
+  - [Series things](#series-things)
+
 ## Recitation Schedule / Notes
 
 Additional problems from the OpenStax Calc 2 textbook that seem decent / relevant are listed below. A subset of them will be worked through in recitation.
@@ -64,6 +77,16 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 12 (Mon, Feb 27): Review for Midterm 2 (on Tues, Feb 28)
   * [Midterm 2 Review Solutions](https://www.dropbox.com/s/odsm9afh77fc1ls/review2-sol.pdf?dl=0) (Try the problems for yourself, before referring to this!)
 * Recit 13 (Wed, Mar 1): Hyperbolic functions
+  * [https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms]
+* Recit 14 (Mon, Mar 6): (Separable) Differential Equations
+* Recit 15 (Wed, Mar 8): Sequences
+* Spring break (March 12--19)
+* Recit 16 (Mon, Mar 20): Series
+* Recit 17 (Wed, Mar 22): Integral test
+* Recit 18 (Mon, Mar 27): Comparison tests
+* Recit 19 (Wed, Mar 29): Alternating Series
+* Recit 20 (Mon, Apr 3): Review for midterm 3 (on April 4)
+* Recit 21 (Wed, Apr 5): Ratio and root tests
 
 ## KSU Math Exam Archive
 
@@ -106,3 +129,13 @@ Particularly useful are his:
 * [Integration by parts worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf)
 * [Trig integrals worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_4c6cd42fbf9a4cc58be455f39ef6267e.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX) might help)
 * [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo) might help)
+
+## Series things
+
+* [BPRP Convergence Tests handout](https://www.blackpenredpen.com/_files/ugd/287ba5_7460f4c914a64263958b991439536519.pdf)
+* [BPRP Power series handout](https://www.blackpenredpen.com/_files/ugd/287ba5_c2c9c480845c41498f4b0d3242e37d21.pdf)
+* [BPRP's "The List"](https://www.youtube.com/watch?v=dZ5dtcJsxgI) (12 mins)
+  * Quick way to intuit whether a series converges or diverges by comparing the relative growth of standard functions.  (You'll need to argue things more thoroughly on the exam.)
+* [BPRP's 100 Series video](https://www.youtube.com/watch?v=jTuTEcwvkP4) (6 hrs)
+* [BPRP "What Series Convergence Test Do I Use?" livestream](https://www.youtube.com/watch?v=Od2YAt1_ibE) (1.5 hours, 15 series)
+* [BPRP Power series study guide](https://www.youtube.com/watch?v=LKhvdkUdLtE) (3.5 hours, 26.2 power series)
