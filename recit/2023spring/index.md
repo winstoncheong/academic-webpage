@@ -97,6 +97,7 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 ## My Exam Solutions
 
 * [Midterm 1](https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0)
+* [Midterm 2](https://www.dropbox.com/s/jpjlfeqtsuzzeu0/exam2-mysol.pdf?dl=0)
 
 ## Other Resources
 
