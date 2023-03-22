@@ -133,6 +133,7 @@ Particularly useful are his:
 
 ## Series things
 
+* [Convergence Tests notes](https://www.overleaf.com/read/rfmfhkchbtdf)
 * [BPRP Convergence Tests handout](https://www.blackpenredpen.com/_files/ugd/287ba5_7460f4c914a64263958b991439536519.pdf)
 * [BPRP Power series handout](https://www.blackpenredpen.com/_files/ugd/287ba5_c2c9c480845c41498f4b0d3242e37d21.pdf)
 * [BPRP's "The List"](https://www.youtube.com/watch?v=dZ5dtcJsxgI) (12 mins)
