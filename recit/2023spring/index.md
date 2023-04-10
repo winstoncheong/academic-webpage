@@ -24,7 +24,7 @@ Most material for this course is on Canvas.
   - [Table of Contents](#table-of-contents)
   - [Recitation Schedule / Notes](#recitation-schedule--notes)
   - [KSU Math Exam Archive](#ksu-math-exam-archive)
-  - [My Exam Solutions](#my-exam-solutions)
+  - [Exam Solutions](#exam-solutions)
   - [Other Resources](#other-resources)
     - [Computer Aid (For *checking* answers)](#computer-aid-for-checking-answers)
   - [Math background refresher (Calc 1 \& Trig)](#math-background-refresher-calc-1--trig)
@@ -86,7 +86,17 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 18 (Mon, Mar 27): Comparison tests
 * Recit 19 (Wed, Mar 29): Alternating Series
 * Recit 20 (Mon, Apr 3): Review for midterm 3 (on April 4)
+  * [Midterm 3 Review Solutions](https://www.dropbox.com/s/lsfs8vxujqbq8r8/review3-sol.pdf?dl=0)
 * Recit 21 (Wed, Apr 5): Ratio and root tests
+* Recit 22 (Mon, Apr 10): Power series
+* Recit 23 (Wed, Apr 12): Taylor series
+* Recit 24 (Mon, Apr 17): Taylor series II
+* Recit 25 (Wed, Apr 19): Parametric curves
+* Recit 26 (Mon, Apr 24): Parametric calculus
+* Recit 27 (Wed, Apr 26): Polar coordinates
+* Recit 28 (Mon, May 1): Area and length in polar coordinates
+* Recit 29 (Wed, May 3): Review for final
+* Recit 29 (Mon, May 8): Review for final (do we still meet?)
 
 ## KSU Math Exam Archive
 
@@ -94,10 +104,12 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 
 > Particularly relevant are the 2020 Spring, 2019 Spring, and 2018 Spring semesters.
 
-## My Exam Solutions
+## Exam Solutions
 
-* [Midterm 1](https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0)
-* [Midterm 2](https://www.dropbox.com/s/jpjlfeqtsuzzeu0/exam2-mysol.pdf?dl=0)
+* [Midterm 1 mysol](https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0)
+* [Midterm 2 mysol](https://www.dropbox.com/s/jpjlfeqtsuzzeu0/exam2-mysol.pdf?dl=0)
+* [Midterm 3](https://www.dropbox.com/s/f59fpk20tpxadb3/math221_S23_mid_3_sols.pdf?dl=0)
+  * [Midterm 3 comments](https://www.dropbox.com/s/dsqzgfza4if81s4/exam3-comments.pdf?dl=0)
 
 ## Other Resources
 
