@@ -94,6 +94,8 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 25 (Wed, Apr 19): Parametric curves
 * Recit 26 (Mon, Apr 24): Parametric calculus
 * Recit 27 (Wed, Apr 26): Polar coordinates
+  * [Desmos > Limacon / Cardioid](https://www.desmos.com/calculator/pzb2xlqh6z)
+  * [Desmos > Rose Curve](https://www.desmos.com/calculator/rrv2x4lzci)
 * Recit 28 (Mon, May 1): Area and length in polar coordinates
 * Recit 29 (Wed, May 3): Review for final
 * Recit 29 (Mon, May 8): Review for final (do we still meet?)
