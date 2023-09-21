@@ -22,7 +22,11 @@
 
 > Dr. Spencer's exams have been copied to my exam archive (Fall[2019, 2018, 2014, 2011]; Spring[2023, 2022, 2017, 2016, 2015, 2014, 2012])
 
-## By topic
+## Handouts
+
+* [Derivative Rules](https://www.overleaf.com/read/jdrdvfwttfsn)
+
+## Additional Problems By Topic
 
 * Limits
   * BPRP's [Worksheet: Evaluating Limits Algebraically](https://www.blackpenredpen.com/_files/ugd/287ba5_711200aeda034491b72cd34203466728.pdf), [video solutions part #1](https://youtu.be/pj4GNwxGiNk), [video solutions part #2](https://youtu.be/Nrq0yO1eZF8)
@@ -33,7 +37,7 @@
     * [Solutions video](https://youtu.be/TglD4Y6lmQk) (7:29:12)
 * Derivatives
   * Spivak's Calculus 3e, Ch 10, 15, 18 has good exercises
-  * Openstax Calc 1:
+  * OpenStax Calc 1:
   * BPRP's "100 Derivatives"
     * [Problem set](https://www.blackpenredpen.com/_files/ugd/287ba5_b5b6cc959ca44e619bbc9b0ba20d69b1.pdf)
     * [Solutions video](https://youtu.be/AegzQ_dip8k) (6:38:12)
