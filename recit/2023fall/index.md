@@ -29,14 +29,14 @@
   * BPRP pset: [10 limits](https://www.blackpenredpen.com/_files/ugd/287ba5_9ae96c88a40847d6b24533ce40bd68b4.pdf)
   * BPRP pset: [Another 10 limits](https://www.blackpenredpen.com/_files/ugd/287ba5_2d7322800a664b968811f8d189ba0a57.pdf)
   * BPRP's "100 Limits"
-    * Video (7:29:12): <https://youtu.be/TglD4Y6lmQk>
-    * Problem set: <https://www.blackpenredpen.com/_files/ugd/287ba5_4c2b4ae62fe84ae894f8c80790e32a67.pdf>
+    * [Problem set](https://www.blackpenredpen.com/_files/ugd/287ba5_4c2b4ae62fe84ae894f8c80790e32a67.pdf)
+    * [Solutions video](https://youtu.be/TglD4Y6lmQk) (7:29:12)
 * Derivatives
   * Spivak's Calculus 3e, Ch 10, 15, 18 has good exercises
-  * Openstax Calc 1: 
+  * Openstax Calc 1:
   * BPRP's "100 Derivatives"
-    * Video (6:38:12): <https://youtu.be/AegzQ_dip8k>
-    * PDF: <https://www.blackpenredpen.com/_files/ugd/287ba5_b5b6cc959ca44e619bbc9b0ba20d69b1.pdf>
+    * [Problem set](https://www.blackpenredpen.com/_files/ugd/287ba5_b5b6cc959ca44e619bbc9b0ba20d69b1.pdf)
+    * [Solutions video](https://youtu.be/AegzQ_dip8k) (6:38:12)
   * BPRP's [100 Examples on Derivatives](https://www.blackpenredpen.com/_files/ugd/287ba5_08cbd14c7b7a431db3c5e8f812fba901.pdf) pdf with written solutions
   * BPRP pset: [So you think you can take the derivative #1](https://www.blackpenredpen.com/_files/ugd/287ba5_f282a9b6a7d7485e97b569a9bac5551b.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGy2Dvrkl0sVmHmJ8nfFJkUA)
   * BPRP pset: [So you think you can take the derivative #2](https://www.blackpenredpen.com/_files/ugd/287ba5_e9a3a2f6bcb0415c866ffc6521f1f7f1.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyMA4ry3PU4d_vIbD2qObSY)
@@ -44,8 +44,8 @@
 
 * L'Hôpital
   * BPRP's "Limits & L'Hospital's Rule" worksheet (under Calc 2)
-    * Worksheet: <https://www.blackpenredpen.com/_files/ugd/287ba5_fc19d8f3e1a94c4295298047578e2197.pdf>
-    * Video (44:55): <https://youtu.be/tsptFBqf2Ug>
+    * [Worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_fc19d8f3e1a94c4295298047578e2197.pdf)
+    * [Solutions video](https://youtu.be/tsptFBqf2Ug) (44:55)
 * Integrals
   * BPRP pset: [Integral Battles](https://www.blackpenredpen.com/_files/ugd/287ba5_2a5ba3f5a8904f5896cb6548649a42ed.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGymFhgX39LrAVSPLwi8ZW3W)
 * FTC
@@ -72,9 +72,9 @@
 * Algebra review
   * [Tyler Wallace's "Beginning and Intermediate Algebra"](http://www.wallace.ccfaculty.org/book/book.html)
     * Free online book with interesting / challenging exercises. Has all solutions.
+  * BPRP's 100 Algebra Problems (for calculus)
+    * [Problem sheet](https://www.blackpenredpen.com/_files/ugd/287ba5_88ffffbd539d419a83482923d2352fbf.pdf)
+    * [with answers](https://www.blackpenredpen.com/_files/ugd/287ba5_acf73cf0458842c0b5d37b57f3c7b17e.pdf)
+    * [Video](https://youtu.be/XtQIsKoHc8Q) (5:15:26)
   * [Stitz-Zeager's Precalculus 3e](https://www.stitz-zeager.com/)
     * Free online book. Has answers to exercises.
-  * BPRP's 100 Algebra Problems (for calculus)
-    * Video (5:15:26): <https://youtu.be/XtQIsKoHc8Q>
-    * Problem sheet: <https://www.blackpenredpen.com/_files/ugd/287ba5_88ffffbd539d419a83482923d2352fbf.pdf>
-    * with answers: <https://www.blackpenredpen.com/_files/ugd/287ba5_acf73cf0458842c0b5d37b57f3c7b17e.pdf>
