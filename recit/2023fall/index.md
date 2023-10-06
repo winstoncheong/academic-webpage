@@ -24,7 +24,6 @@
 
 ## Handouts
 
-<!-- test -->
 * [Derivative Rules](https://www.overleaf.com/read/jdrdvfwttfsn)
 
 ## Additional Problems By Topic
@@ -38,7 +37,6 @@
     * [Solutions video](https://youtu.be/TglD4Y6lmQk) (7:29:12)
 * Derivatives
   * Spivak's Calculus 3e, Ch 10, 15, 18 has good exercises
-  * OpenStax Calc 1:
   * BPRP's "100 Derivatives"
     * [Problem set](https://www.blackpenredpen.com/_files/ugd/287ba5_b5b6cc959ca44e619bbc9b0ba20d69b1.pdf)
     * [Solutions video](https://youtu.be/AegzQ_dip8k) (6:38:12)
@@ -46,7 +44,11 @@
   * BPRP pset: [So you think you can take the derivative #1](https://www.blackpenredpen.com/_files/ugd/287ba5_f282a9b6a7d7485e97b569a9bac5551b.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGy2Dvrkl0sVmHmJ8nfFJkUA)
   * BPRP pset: [So you think you can take the derivative #2](https://www.blackpenredpen.com/_files/ugd/287ba5_e9a3a2f6bcb0415c866ffc6521f1f7f1.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyMA4ry3PU4d_vIbD2qObSY)
   * BPRP pset: [So you think you can take the derivative #3](https://www.blackpenredpen.com/_files/ugd/287ba5_83f8449c7a2c4186ab354416fec2b576.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGx7PlpS44o3SSx4zLtB4F7B&disable_polymer=true)
-
+* Optimization
+  * Closed Interval Method
+    * OpenStax Calc 1 Section 4.3: #119, 120, 126, 127
+      * Ignore instructions for that block of problems. Just find the absolute min/max over the interval given.
+      * #128 is also good, but requires that you really know trig. Can be treated as a challenge problem.
 * L'Hôpital
   * BPRP's "Limits & L'Hospital's Rule" worksheet (under Calc 2)
     * [Worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_fc19d8f3e1a94c4295298047578e2197.pdf)
