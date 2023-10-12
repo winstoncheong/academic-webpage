@@ -51,6 +51,10 @@
   * BPRP's worksheet [7 Related Rates problems](https://www.blackpenredpen.com/_files/ugd/287ba5_dc24528101234bc8a2e6075d28b5f90b.pdf), with [video solutions](https://youtu.be/vGaE9AsdZ2Q)
   * BPRP's problem set [4 Related Rates & 4 Optimization](https://www.blackpenredpen.com/_files/ugd/287ba5_3499f1db56844d3cabf2a0851156c05b.pdf)
   * [Paul's Notes | Related Rates practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/RelatedRates.aspx)
+* Curve Sketch process
+  * OpenStax Calc 1 Section 4.5: #224--230 for computing $f', f''$ and extracting data from the sign charts (increasing, decreasing, concave up, concave down)
+  * [Paul's Notes | Shape of a Graph Part 1 practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/ShapeofGraphPtI.aspx) (problems 5--12 look good)
+  * [Paul's Notes | Shape of a Graph Part 2 practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/ShapeofGraphPtII.aspx) (problems 3--8, 9--14 look good)
 * Optimization
   * Closed Interval Method
     * OpenStax Calc 1 Section 4.3: #119, 120, 126, 127
