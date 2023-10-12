@@ -57,6 +57,7 @@
   * BPRP's "Limits & L'Hospital's Rule" worksheet (under Calc 2)
     * [Worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_fc19d8f3e1a94c4295298047578e2197.pdf)
     * [Solutions video](https://youtu.be/tsptFBqf2Ug) (44:55)
+  * [BPRP's "100 Limits" problem set, Q56--Q70](https://www.blackpenredpen.com/_files/ugd/287ba5_4c2b4ae62fe84ae894f8c80790e32a67.pdf#page=6)
 * Integrals
   * BPRP pset: [Integral Battles](https://www.blackpenredpen.com/_files/ugd/287ba5_2a5ba3f5a8904f5896cb6548649a42ed.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGymFhgX39LrAVSPLwi8ZW3W)
 * FTC
