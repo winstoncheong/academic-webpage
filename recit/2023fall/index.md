@@ -44,6 +44,10 @@
   * BPRP pset: [So you think you can take the derivative #1](https://www.blackpenredpen.com/_files/ugd/287ba5_f282a9b6a7d7485e97b569a9bac5551b.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGy2Dvrkl0sVmHmJ8nfFJkUA)
   * BPRP pset: [So you think you can take the derivative #2](https://www.blackpenredpen.com/_files/ugd/287ba5_e9a3a2f6bcb0415c866ffc6521f1f7f1.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyMA4ry3PU4d_vIbD2qObSY)
   * BPRP pset: [So you think you can take the derivative #3](https://www.blackpenredpen.com/_files/ugd/287ba5_83f8449c7a2c4186ab354416fec2b576.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGx7PlpS44o3SSx4zLtB4F7B&disable_polymer=true)
+* Related Rates
+  * BPRP's worksheet [7 Related Rates problems](https://www.blackpenredpen.com/_files/ugd/287ba5_dc24528101234bc8a2e6075d28b5f90b.pdf), with [video solutions](https://youtu.be/vGaE9AsdZ2Q)
+  * BPRP's problem set [4 Related Rates & 4 Optimization](https://www.blackpenredpen.com/_files/ugd/287ba5_3499f1db56844d3cabf2a0851156c05b.pdf)
+  * [Paul's Notes | Related Rates practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/RelatedRates.aspx)
 * Optimization
   * Closed Interval Method
     * OpenStax Calc 1 Section 4.3: #119, 120, 126, 127
