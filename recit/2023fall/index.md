@@ -22,9 +22,12 @@
 
 > Dr. Spencer's exams have been copied to my exam archive (Fall[2019, 2018, 2014, 2011]; Spring[2023, 2022, 2017, 2016, 2015, 2014, 2012])
 
+[Problems stratified by topic (work in progress)](https://www.dropbox.com/scl/fi/0iqs4u9ye1l81n8lqbp0y/calc1.pdf?rlkey=88vqkragsy2v3ya369tsyhdh6&dl=0)
+
 ## Handouts
 
 * [Derivative Rules](https://www.overleaf.com/read/jdrdvfwttfsn)
+* [Sign charts, quickly](https://www.overleaf.com/read/xnmpzxyfhctb)
 
 ## Additional Problems By Topic
 
