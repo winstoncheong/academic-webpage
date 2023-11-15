@@ -30,6 +30,7 @@
 * [Sign charts, quickly](https://www.overleaf.com/read/xnmpzxyfhctb)
 * [FTC vs Limit of Riemann Sum](https://www.overleaf.com/read/jrtbnfndcfhk#519ea7)
 * [FTC](https://www.overleaf.com/read/qzwbtqjmxwqd#7be7eb)
+* [Two approaches to u-sub for definite integrals](https://www.overleaf.com/read/wkthxvjcqmft#7b92fa)
 
 ## Additional Problems By Topic
 
@@ -69,9 +70,22 @@
   * [BPRP's "100 Limits" problem set, Q56--Q70](https://www.blackpenredpen.com/_files/ugd/287ba5_4c2b4ae62fe84ae894f8c80790e32a67.pdf#page=6)
   * OpenStax Calc 1 Section 4.8: #367--405.
     * #402 is decent. #375 requires L'Hopital 3 times. #388 is a bit tricky.
-* Integrals
+* Integrals (including u-sub)
   * BPRP pset: [Integral Battles](https://www.blackpenredpen.com/_files/ugd/287ba5_2a5ba3f5a8904f5896cb6548649a42ed.pdf), [solutions playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGymFhgX39LrAVSPLwi8ZW3W)
-* FTC
+    * This problem set has a number of interesting u-sub integrals.
+  * Use algebra and u-sub to verify the formulas:
+    * $\displaystyle \int \frac{dx}{\sqrt{a^2-x^2}} = \sin^{-1}\frac xa +C$
+    * $\displaystyle \int \frac{dx}{a^2+x^2} = \frac1a \tan^{-1}\frac xa + C$
+  * OpenStax Calc 1 Section 5.5 (Substitution): #261--287, 292--297
+    * The trickier ones are #282, 283. Also decent: #285, 286, 287
+  * OpenStax Calc 1 Section 5.6 (Integrals involving Exp and Log functions): #320--341
+    * Most of these also involve u-sub.
+    * #331 is nice. #332 is good to know. #334, 335 are kind of neat.
+  * OpenStax Calc 1 Section 5.7 (Integrals Resulting in Inverse Trig functions): #391--402, 411--416, 423--432, 435
+    * #414--416 are a bit trickier. The evaluations for #430--432 require knowing how to work with inverse trig functions on non-special values.
+    * #435 is interesting.
+* Fundamental Theorem of Calculus (FTC)
+  * OpenStax Calc 1 Section 5.3: #148--159, 170--189
 
 ## Other Resources
 
