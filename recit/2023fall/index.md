@@ -86,6 +86,40 @@
     * #435 is interesting.
 * Fundamental Theorem of Calculus (FTC)
   * OpenStax Calc 1 Section 5.3: #148--159, 170--189
+* Area between curves
+  * [Paul's Notes | Area Between Curves practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/AreaBetweenCurves.aspx)
+  * OpenStax Calc 1 Section 6.1 (Area Between Curves): #1--30
+    * **Advice**: A number of these problems are a pain to evaluate by hand. Focus on *setting up the integral* and *check that you can do the indefinite version of the integral*. If doing the evaluation by hand looks overly tedious, it is fine to use a calculator (a symbolic calculator is best, like WolframAlpha or Symbolab, so that you get exact answers, not numerical approximations).
+      * Also, you should be sketching the region by hand, before checking with a graphing calculator (such as Desmos). Don't rely on having a graphing calculator, since you won't have one on the exam.
+    * **The bad problems**:
+      * #3 has bad intersection points: $x=\frac{1\pm\sqrt{5}}{2}$
+      * #18 has bad intersection points: $x=1\pm\sqrt{2}$. Three separate integrals.
+      * #24 has bad intersection points: $x=-1\pm\sqrt3$
+      * #30 has bad intersection points: $x=\frac{1\pm\sqrt{5}}{2}$
+    * Additional comments on the problems:
+      * #9: Use symmetry, otherwise you'll have 4 integrals.
+      * #16 is interesting. The evaluation can be simplified using visual symmetry
+      * #26: Finding the intersection point by hand is a bit tricky. Use the trig identity $\cos 2y = 1-2\sin^2 y$ to get a quadratic in terms of $\sin y$ and factor. There's only one intersection point in the relevant interval.
+      * #32, 34: To integrate $\cos^3 x$, use the identity $\cos^2 x = 1-\sin^2 x$ followed by a u-sub
+      * #36: Geometry is needed for part of the integral.
+      * #37: The integral(s) to compute the area between curves can be set up (finding the intersection point by hand is possible), but cannot be evaluated by hand without *Integration By Parts*, a Calc 2 integral technique.
+* Volumes of revolution
+  * Similar comments to the "Area between curves" bullet above. The important step here is setting up the integral. Doing the indefinite integral should be straightforward (one should check this), and the evaluation can be left to a calculator (as it should be straightforward, though sometimes tedious). Should be able to sketch the regions by hand. Can check the sketch with a graphing calculator (e.g. Desmos), but don't overly rely on it (since you won't have a calculator on the exam).
+  * [Paul's Notes | Volume with Rings practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/VolumeWithRings.aspx) (this is disk/washer method)
+  * [Paul's Notes | Volume with Cylinders practice problems](https://tutorial.math.lamar.edu/Problems/CalcI/VolumeWithCylinder.aspx) (this is shell method)
+  * [BPRP's worksheet "Area & Volume"](https://www.blackpenredpen.com/_files/ugd/287ba5_5da34ead633d4545b64e57ddf99fa955.pdf)
+    * [With answers](https://www.blackpenredpen.com/_files/ugd/287ba5_f564a9baaed44cf9b3da29fa0e5cc72d.pdf) and [video solutions](https://www.youtube.com/watch?v=ydyXf01WNYA)
+  * OpenStax Calc 1 Section 6.2 (Disk/Washer method):  #74--102 except #94
+    * Particularly representative / fair problems are: #74, 75, 76, 77, 78, 80, 82, 83, 84, 85, 90, 91, 93, 95, 98, 100
+    * Hints/remarks
+      * #79: Use the identity $\cos(2x) = \cos^2x - \sin^2 x$ to rewrite integrand
+      * #81: $x^2-y^2=9$ is a hyperbola. To sketch, use points $(\pm 3, 0)$ and $(\pm5, \pm4)$.
+      * #88: Two integrals are needed. The "upper" function changes
+      * #92 is a bit tricky for determining which function is "on top"
+      * For #96, use $\cos 2x = 1-2\sin^2 x$ to integrate
+  * OpenStax Calc 1 Section 6.3 (Shell method): #114--148. Skip 136
+    * #114--#119 are especially good practice. Can check that the setups are correct, since both integrals should give the same numerical answer. No technology needed for these.
+    * Shifted axis of rotation: #143, 144, 146, 148
 
 ## Other Resources
 
