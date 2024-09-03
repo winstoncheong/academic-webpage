@@ -48,19 +48,40 @@ title: Winston Cheong's page
 
 # Research interests
 
-My current focus is on the enhancement of categories, particularly dg and $A_\infty$ enhancement, as this pertains to my thesis project.
+My current focus is on $A_\infty$-structures.
 
-More broadly, I am interested in mirror symmetry, in all its various incarnations (homological, hodge-theoretic, tropical, etc.).
+Other interests include:
+* Mirror symmetry
+* Langlands program
+* Formalization of mathematics, e.g.:
+  * Perfectoid spaces (1910.12320)
+  * $\infty$-categorical Yoneda lemma (2309.08340)
+* Using machine learning to aid in discovering new mathematics
+* Physical Mathematics
 
-I am also interested in things like Ramanujan-style number theory (e.g. partition function), the modularity theorem, (geometric/categorical/quantum/local/etc) Langlands, (Monstrous/Mathieu/Umbral) moonshine, Kevin Buzzard's work on formalizing mathematics in LEAN (e.g. perfectoid spaces), Ed Witten's work in general.
-
-On the more applied side, I am curious about the work spearheaded by Yang-Hui He in using machine learning methods to investigate mathematical objects (e.g. 2101.06317, 2009.02544, 2006.16623, 2011.14442, 1812.02893)
+Former interests include:
+* Ramanujan-style number theory (e.g. partition function, mock theta functions / mock modular forms),
+* the modularity theorem,
+* (Monstrous/Mathieu/Umbral) moonshine,
+* Quantum topology
 
 # Publications and Preprints
 
-1. Cheong, Winston, Alexander Doser, McKinley Gray, and Stephen F. Sawin. "Relationship of the Hennings and Chern-Simons Invariants For Higher Rank Quantum Groups." ArXiv:1701.01423 [Math], July 24, 2018. <http://arxiv.org/abs/1701.01423>.
-2. Bittner, Daniel, Long Cheong, Dante Gates, and Hieu Nguyen. "New Approximations for the Area of the Mandelbrot Set." Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555–72. <https://doi.org/10.2140/involve.2017.10.555>. (Preprint version: <https://arxiv.org/abs/1410.1212>)
-3. Nguyen, Hieu D., and Long G. Cheong. "New Convolution Identities for Hypergeometric Bernoulli Polynomials." Journal of Number Theory 137 (April 1, 2014): 201–21. <https://doi.org/10.1016/j.jnt.2013.11.008>. (Preprint version: <https://arxiv.org/abs/1401.2970>)
+1. Winston Cheong, Alexander Doser, McKinley Gray, and Stephen F. Sawin.
+   "Relationship of the Hennings and Witten-Reshetikhin-Turaev invariants for higher rank quantum groups."
+   J. Knot Theory and Ramifications 2023 32:07.
+   <https://doi.org/10.1142/S0218216523500487>
+   Preprint version: [arXiv:1701.01423](http://arxiv.org/abs/1701.01423)
+3. Daniel Bittner, Long Cheong, Dante Gates, and Hieu Nguyen.
+   "New Approximations for the Area of the Mandelbrot Set."
+   Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555&ndash;572.
+   <https://doi.org/10.2140/involve.2017.10.555>.
+   Preprint version: [arXiv:1410.1212](https://arxiv.org/abs/1410.1212)
+4. Hieu D. Nguyen and Long G. Cheong.
+   "New Convolution Identities for Hypergeometric Bernoulli Polynomials."
+   Journal of Number Theory 137 (April 1, 2014): 201&ndash;221.
+   <https://doi.org/10.1016/j.jnt.2013.11.008>.
+   Preprint version: [arXiv:1401.2970](https://arxiv.org/abs/1401.2970)
 
 # Presentations
 

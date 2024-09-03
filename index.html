@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Winston Cheong</title>
-        <style>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Winston Cheong</title>
+            <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
@@ -11,12 +11,14 @@
  *--------------------------------------------------------------------------------------------*/
 
 .vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only] {
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
 	display: none;
 }
 
 </style>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
 <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
@@ -38,10 +40,106 @@
     pointer-events: none;
 }
 </style>
-        
-    </head>
-    <body class="vscode-body vscode-light">
-        <!-- ---
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+
+        </head>
+        <body class="vscode-body vscode-light">
+            <!-- ---
 title: Winston Cheong's page
 --- -->
 <head>
@@ -83,15 +181,44 @@ title: Winston Cheong's page
 <li><a href="https://math.ksu.edu/~winstonc/recit/2019fall/">2019 Fall : Calc 1</a></li>
 </ul>
 <h1 id="research-interests">Research interests</h1>
-<p>My current focus is on the enhancement of categories, particularly dg and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>A</mi><mi mathvariant="normal">∞</mi></msub></mrow><annotation encoding="application/x-tex">A_\infty</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.1514em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> enhancement, as this pertains to my thesis project.</p>
-<p>More broadly, I am interested in mirror symmetry, in all its various incarnations (homological, hodge-theoretic, tropical, etc.).</p>
-<p>I am also interested in things like Ramanujan-style number theory (e.g. partition function), the modularity theorem, (geometric/categorical/quantum/local/etc) Langlands, (Monstrous/Mathieu/Umbral) moonshine, Kevin Buzzard's work on formalizing mathematics in LEAN (e.g. perfectoid spaces), Ed Witten's work in general.</p>
-<p>On the more applied side, I am curious about the work spearheaded by Yang-Hui He in using machine learning methods to investigate mathematical objects (e.g. 2101.06317, 2009.02544, 2006.16623, 2011.14442, 1812.02893)</p>
+<p>My current focus is on <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>A</mi><mi mathvariant="normal">∞</mi></msub></mrow><annotation encoding="application/x-tex">A_\infty</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.1514em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>-structures.</p>
+<p>Other interests include:</p>
+<ul>
+<li>Mirror symmetry</li>
+<li>Langlands program</li>
+<li>Formalization of mathematics, e.g.:
+<ul>
+<li>Perfectoid spaces (1910.12320)</li>
+<li><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∞</mi></mrow><annotation encoding="application/x-tex">\infty</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord">∞</span></span></span></span>-categorical Yoneda lemma (2309.08340)</li>
+</ul>
+</li>
+<li>Using machine learning to aid in discovering new mathematics</li>
+<li>Physical Mathematics</li>
+</ul>
+<p>Former interests include:</p>
+<ul>
+<li>Ramanujan-style number theory (e.g. partition function, mock theta functions / mock modular forms),</li>
+<li>the modularity theorem,</li>
+<li>(Monstrous/Mathieu/Umbral) moonshine,</li>
+<li>Quantum topology</li>
+</ul>
 <h1 id="publications-and-preprints">Publications and Preprints</h1>
 <ol>
-<li>Cheong, Winston, Alexander Doser, McKinley Gray, and Stephen F. Sawin. &quot;Relationship of the Hennings and Chern-Simons Invariants For Higher Rank Quantum Groups.&quot; ArXiv:1701.01423 [Math], July 24, 2018. <a href="http://arxiv.org/abs/1701.01423">http://arxiv.org/abs/1701.01423</a>.</li>
-<li>Bittner, Daniel, Long Cheong, Dante Gates, and Hieu Nguyen. &quot;New Approximations for the Area of the Mandelbrot Set.&quot; Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555–72. <a href="https://doi.org/10.2140/involve.2017.10.555">https://doi.org/10.2140/involve.2017.10.555</a>. (Preprint version: <a href="https://arxiv.org/abs/1410.1212">https://arxiv.org/abs/1410.1212</a>)</li>
-<li>Nguyen, Hieu D., and Long G. Cheong. &quot;New Convolution Identities for Hypergeometric Bernoulli Polynomials.&quot; Journal of Number Theory 137 (April 1, 2014): 201–21. <a href="https://doi.org/10.1016/j.jnt.2013.11.008">https://doi.org/10.1016/j.jnt.2013.11.008</a>. (Preprint version: <a href="https://arxiv.org/abs/1401.2970">https://arxiv.org/abs/1401.2970</a>)</li>
+<li>Winston Cheong, Alexander Doser, McKinley Gray, and Stephen F. Sawin.
+&quot;Relationship of the Hennings and Witten-Reshetikhin-Turaev invariants for higher rank quantum groups.&quot;
+J. Knot Theory and Ramifications 2023 32:07.
+<a href="https://doi.org/10.1142/S0218216523500487">https://doi.org/10.1142/S0218216523500487</a>
+Preprint version: <a href="http://arxiv.org/abs/1701.01423">arXiv:1701.01423</a></li>
+<li>Daniel Bittner, Long Cheong, Dante Gates, and Hieu Nguyen.
+&quot;New Approximations for the Area of the Mandelbrot Set.&quot;
+Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555–572.
+<a href="https://doi.org/10.2140/involve.2017.10.555">https://doi.org/10.2140/involve.2017.10.555</a>.
+Preprint version: <a href="https://arxiv.org/abs/1410.1212">arXiv:1410.1212</a></li>
+<li>Hieu D. Nguyen and Long G. Cheong.
+&quot;New Convolution Identities for Hypergeometric Bernoulli Polynomials.&quot;
+Journal of Number Theory 137 (April 1, 2014): 201–221.
+<a href="https://doi.org/10.1016/j.jnt.2013.11.008">https://doi.org/10.1016/j.jnt.2013.11.008</a>.
+Preprint version: <a href="https://arxiv.org/abs/1401.2970">arXiv:1401.2970</a></li>
 </ol>
 <h1 id="presentations">Presentations</h1>
 <ol>
@@ -116,7 +243,7 @@ title: Winston Cheong's page
 <li><a href="https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/">Better KSU Math Exam Archive</a></li>
 </ul>
 
-        <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
-        
-    </body>
-    </html>
+            <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+
+        </body>
+        </html>
