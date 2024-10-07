@@ -45,7 +45,6 @@ title: Winston Cheong's page
 - [Teaching](#teaching)
   - [Undergraduate students (Recitation Pages)](#undergraduate-students-recitation-pages)
   - [Graduate students](#graduate-students)
-    - [Learn LaTeX (and packages)](#learn-latex-and-packages)
 
 
 
@@ -128,29 +127,5 @@ Former interests include:
   * Terence Tao's Intuition learning
   * Evan chen ? -->
 
-### Learn LaTeX (and packages)
 
-* [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
-* [Jendrik Stelzner's "Writing LaTeX: Some do's and don'ts"](https://cionx.gitlab.io/writing-latex/writing_latex.pdf)
-* George Gratzer's book(s) on LaTeX
-  * He changes the title with each edition. Current one is *Text and Math Into LaTeX* (6e, 2024)
-* Leslie Lamport, *LaTeX--A document preparation system*, Addison-Wesley, 1994.
-* Donald Knuth, *The TeXbook*, Addison-Wesley, 1991.
-* [lshort: The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
-* Frank Mittelbach, Ulrike Fischer, *The LaTeX Companion 3e*, Addison-Wesley Professional, 2023.
-  * This book is quite comprehensive. It showcases much of the package ecosystem.
-* Know the packages (so read / skim the documentation)
-  * `amsmath`
-  * `commath`
-  * `mathtools`
-  * `amsthm`
-  * `amsfont`
-  * `amssymb`
-  * `thmtools`
-  * `nicematrix`
-  * `booktabs`
-  * `tikz-cd`
-  * `outlines`
-  * `enumitem`
-  * `tcolorbox`
-  * `mdframed` (old but still usable)
+* [LaTeX](./latex.html)
