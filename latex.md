@@ -18,6 +18,16 @@
 * Frank Mittelbach, Ulrike Fischer, *The LaTeX Companion 3e*, Addison-Wesley Professional, 2023.
   * This book is quite comprehensive. It showcases much of the package ecosystem.
 
+## Document classes
+* plain
+  * `article`, `book`, `report`
+* AMS
+  * `amsart`, `amsbook`, `amsproc`
+* Komascript
+  * `scrartcl`, `scrbook`, `scrreprt`
+* `memoir`
+* `tufte-latex`
+
 
 ## Useful packages
 
@@ -29,6 +39,7 @@
     * `amsfont`
     * `amssymb`
     * `nicematrix`
+    * `empheq`
 * For theorems
     * `thmtools`
     * `tcolorbox`
@@ -36,10 +47,25 @@
 * For tabular data
     * `booktabs`
     * `nicematrix`
+    * `tabularx`
+    * `tabu`
 * For diagrams
     * `tikz-cd`
+    * `tikz`
+    * `asymptote`
+* For code listings
+    * `lstlisting`
+    * `minted`
 * Other
     * `outlines`
     * `enumitem`
     * `hyperref`
     * `cleveref`
+    * `mindflow`
+    * `standalone`
+    * `fancyhdr`
+    * `lineno`
+    * `xcolor`
+    * `graphicx`
+    * `xwatermark`
+    * `draftwatermark`
