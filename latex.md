@@ -33,13 +33,13 @@
 
 * For math things
     * `amsmath`
-    * `commath`
     * `mathtools`
     * `amsthm`
     * `amsfont`
     * `amssymb`
     * `nicematrix`
     * `empheq`
+    * `derivative`
 * For theorems
     * `thmtools`
     * `tcolorbox`

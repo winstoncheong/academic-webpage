@@ -32,27 +32,29 @@ title: Winston Cheong's page
   <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
 </div>
 
-* Office: CW 127
-* Email: `{first name}{last initial}@ksu.edu`
+* Email: `cheong.winston1337 at gmail dot com`
 
 # Table of Contents
 - [Winston Cheong](#winston-cheong)
 - [Table of Contents](#table-of-contents)
 - [Research interests](#research-interests)
+  - [Current](#current)
+  - [During Undergrad](#during-undergrad)
 - [Publications and Preprints](#publications-and-preprints)
 - [Presentations](#presentations)
 - [Possibly useful things](#possibly-useful-things)
 - [Teaching](#teaching)
-  - [Undergraduate students (Recitation Pages)](#undergraduate-students-recitation-pages)
-  - [Graduate students](#graduate-students)
+- [For Graduate students](#for-graduate-students)
+  - [A tip on how to use `researchseminars.org`:](#a-tip-on-how-to-use-researchseminarsorg)
 
 
 
 # Research interests
 
-My current focus is on $A_\infty$-structures.
 
-Other interests include:
+## Current
+* Derived algebraic geometry
+* ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
 * Langlands program
 * Formalization of mathematics, e.g.:
@@ -61,11 +63,14 @@ Other interests include:
 * Using machine learning to aid in discovering new mathematics
 * Physical Mathematics
 
-Former interests include:
-* Ramanujan-style number theory (e.g. partition function, mock theta functions / mock modular forms),
-* the modularity theorem,
-* (Monstrous/Mathieu/Umbral) moonshine,
+## During Undergrad
+* Ramanujan-style number theory (e.g. partition function, mock theta functions / mock modular forms)
+* proof of Fermat's last theorem
+* the modularity theorem
+* Langlands program
+* (Monstrous/Mathieu/Umbral) moonshine
 * Quantum topology
+* Categorification
 
 # Publications and Preprints
 
@@ -96,22 +101,20 @@ Former interests include:
    (Rowan Mathematics Department Colloquium Series, joint presentation with Daniel Bittner)
    [slides](files/mandelbrot_presentation.pdf)
 
-# Possibly useful things
 
+# Possibly useful things
 * [Verdier's thesis](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
+* [translation of Lefvere-Hasegawa's thesis](./files/lefvere-hasegawa-thesis.pdf)
 * Interactive math utilities by Pieter Belmans:
   * <https://www.fanography.info/>
   * <https://www.grassmannian.info/>
   * <https://www.hyperkaehler.info/>
   * <https://superficie.info/#input>
   * <http://pbelmans.ncag.info/cohomology-tables/>
-* [Adjectives Project]()
+* [Adjectives Project](https://adjectivesproject.org/)
 * [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
 
 # Teaching
-
-## Undergraduate students (Recitation Pages)
-
 * [2023 Fall : Calc 1](./recit/2023fall/)
 * [2023 Spring : Calc 2](./recit/2023spring/)
 * [2022 Fall : Calc 3](./recit/2022fall/)
@@ -119,13 +122,35 @@ Former interests include:
 * [2020 Spring : Calc 1](https://math.ksu.edu/~winstonc/recit/2020spring/)
 * [2019 Fall : Calc 1](https://math.ksu.edu/~winstonc/recit/2019fall/)
 
-## Graduate students
+# For Graduate students
 
-<!-- * Must reads
-  * Thurston's On Proof and Progress
-  * Vakil's thing on seminars
-  * Terence Tao's Intuition learning
-  * Evan chen ? -->
+* Suggested reading for starting grad students:
+  * Thurston's [On Proof and Progress in Mathematics](https://arxiv.org/abs/math/9404236)
+  * Vakil's ["Three Things" exercise, for getting things out of talks/talks](https://math.stanford.edu/~vakil/threethings.html). See also his [advice for students](https://virtualmath1.stanford.edu/~vakil/potentialstudents.html)
+  * Terence Tao's blog posts:
+    * [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+    * [Write down what you've done](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
+  * Evan Chen's [Napkin project](https://web.evanchen.cc/napkin.html)
 
+* For breadth, read (but don't overdo):
+  * Quanta Magazine
+  * Notices of the AMS
+  * Bulletin of the AMS
+  * ICM Proceedings
 
-* [LaTeX](./latex.html)
+* Become proficient in LaTeX
+  * [My info on LaTeX](./latex.html)
+
+* People with good notes:
+  * [Arun Debray](https://adebray.github.io/lecture_notes/)
+  * [Peter Haine](https://math.berkeley.edu/~phaine/#research)
+  * [Evan Chen](https://web.evanchen.cc/coursework.html)
+  * [Daniel (Dani) Tubbenhauer](https://www.dtubbenhauer.com/)
+  * [J.S. Milne](https://www.jmilne.org/math/)
+  * [David Mehrle](https://pi.math.cornell.edu/~dmehrle/notes/)
+
+## A tip on how to use `researchseminars.org`:
+
+1) Create an account 
+2) Subscribe / Favorite the seminars you're interested in
+3) Import your automatically-managed user calendar to your calendar-ing app of choice (scroll to the bottom of https://researchseminars.org/user/info)
