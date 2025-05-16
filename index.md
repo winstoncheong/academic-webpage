@@ -104,7 +104,7 @@ title: Winston Cheong's page
 
 # Possibly useful things
 * [Verdier's thesis](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
-* [translation of Lefvere-Hasegawa's thesis](./files/lefvere-hasegawa-thesis.pdf)
+* [translation of Lefevre-Hasegawa's thesis](./files/lefevre-hasegawa-thesis.pdf)
 * Interactive math utilities by Pieter Belmans:
   * <https://www.fanography.info/>
   * <https://www.grassmannian.info/>
