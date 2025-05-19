@@ -142,12 +142,13 @@ title: Winston Cheong's page
   * [My info on LaTeX](./latex.html)
 
 * People with good notes:
-  * [Arun Debray](https://adebray.github.io/lecture_notes/)
-  * [Peter Haine](https://math.berkeley.edu/~phaine/#research)
   * [Evan Chen](https://web.evanchen.cc/coursework.html)
-  * [Daniel (Dani) Tubbenhauer](https://www.dtubbenhauer.com/)
   * [J.S. Milne](https://www.jmilne.org/math/)
+  * [Arun Debray](https://adebray.github.io/lecture_notes/)
   * [David Mehrle](https://pi.math.cornell.edu/~dmehrle/notes/)
+  * [Zev Chonoles](https://zevchonoles.org/math/course-notes/)
+  * [Peter Haine](https://math.berkeley.edu/~phaine/#research)
+  * [Daniel (Dani) Tubbenhauer](https://www.dtubbenhauer.com/)
 
 ## A tip on how to use `researchseminars.org`:
 
