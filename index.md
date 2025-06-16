@@ -130,6 +130,7 @@ title: Winston Cheong's page
   * Terence Tao's blog posts:
     * [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
     * [Write down what you've done](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
+    * [Work hard](https://terrytao.wordpress.com/career-advice/work-hard/)
   * Evan Chen's [Napkin project](https://web.evanchen.cc/napkin.html)
 
 * For breadth, read (but don't overdo):
