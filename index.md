@@ -43,8 +43,12 @@ title: Winston Cheong's page
 - [Publications and Preprints](#publications-and-preprints)
 - [Presentations](#presentations)
 - [Possibly useful things](#possibly-useful-things)
+- [Some seminar pages](#some-seminar-pages)
 - [Teaching](#teaching)
-- [For Graduate students](#for-graduate-students)
+- [For graduate students / enterprising undergrads](#for-graduate-students--enterprising-undergrads)
+  - [Suggested reading](#suggested-reading)
+  - [LaTeX](#latex)
+  - [People with good notes](#people-with-good-notes)
   - [A tip on how to use `researchseminars.org`:](#a-tip-on-how-to-use-researchseminarsorg)
 
 
@@ -103,9 +107,10 @@ title: Winston Cheong's page
 
 
 # Possibly useful things
+
 * [Verdier's thesis](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
 * [translation of Lefevre-Hasegawa's thesis](./files/lefevre-hasegawa-thesis.pdf)
-* Interactive math utilities by Pieter Belmans:
+* Interactive math utilities by [Pieter Belmans](https://pbelmans.ncag.info/) ([Github profile](https://github.com/pbelmans)):
   * <https://www.fanography.info/>
   * <https://www.grassmannian.info/>
   * <https://www.hyperkaehler.info/>
@@ -114,7 +119,17 @@ title: Winston Cheong's page
 * [Adjectives Project](https://adjectivesproject.org/)
 * [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
 
+# Some seminar pages
+
+* [M-seminar](https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html), [youtube channel](https://www.youtube.com/@m-seminar_ksu/)
+* [WHCGP seminar](https://web.math.ucsb.edu/~drm/WHCGP/)
+* [Informal string math seminar](https://wp.math.berkeley.edu/stringmath/)
+* [Paris algebra seminar](https://researchseminars.org/seminar/paris-algebra-seminar)
+* [BunG seminar](https://math.uchicago.edu/bundles/), [their YT](https://www.youtube.com/@bungseminar/videos)
+
+
 # Teaching
+
 * [2023 Fall : Calc 1](./recit/2023fall/)
 * [2023 Summer : Calc 3](./lect/2023summer/)
 * [2023 Spring : Calc 2](./recit/2023spring/)
@@ -123,34 +138,37 @@ title: Winston Cheong's page
 * [2020 Spring : Calc 1](https://math.ksu.edu/~winstonc/recit/2020spring/)
 * [2019 Fall : Calc 1](https://math.ksu.edu/~winstonc/recit/2019fall/)
 
-# For Graduate students
+# For graduate students / enterprising undergrads
 
-* Suggested reading for starting grad students:
-  * Thurston's [On Proof and Progress in Mathematics](https://arxiv.org/abs/math/9404236)
-  * Vakil's ["Three Things" exercise, for getting things out of talks/talks](https://math.stanford.edu/~vakil/threethings.html). See also his [advice for students](https://virtualmath1.stanford.edu/~vakil/potentialstudents.html)
-  * Terence Tao's blog posts:
-    * [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
-    * [Write down what you've done](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
-    * [Work hard](https://terrytao.wordpress.com/career-advice/work-hard/)
-  * Evan Chen's [Napkin project](https://web.evanchen.cc/napkin.html)
+##  Suggested reading
 
-* For breadth, read (but don't overdo):
+* Thurston's [On Proof and Progress in Mathematics](https://arxiv.org/abs/math/9404236)
+* Vakil's ["Three Things" exercise, for getting things out of talks/talks](https://math.stanford.edu/~vakil/threethings.html). See also his [advice for students](https://virtualmath1.stanford.edu/~vakil/potentialstudents.html)
+* Terence Tao's blog posts:
+  * [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+  * [Write down what you've done](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
+  * [Work hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+* Atiyah's "Mathematics in the 20th Century" article.
+* Ben Webster's [Geometry and categorification](https://arxiv.org/abs/1602.05992)
+* Emily Riehl's [Infinity category theory from scratch](https://emilyriehl.github.io/files/scratch.pdf) ([arxiv version](https://arxiv.org/abs/1608.05314))
+* Periodicals
   * Quanta Magazine
   * Notices of the AMS
   * Bulletin of the AMS
   * ICM Proceedings
 
-* Become proficient in LaTeX
-  * [My info on LaTeX](./latex.html)
+## [LaTeX](./latex.md)
 
-* People with good notes:
-  * [Evan Chen](https://web.evanchen.cc/coursework.html)
-  * [J.S. Milne](https://www.jmilne.org/math/)
-  * [Arun Debray](https://adebray.github.io/lecture_notes/)
-  * [David Mehrle](https://pi.math.cornell.edu/~dmehrle/notes/)
-  * [Zev Chonoles](https://zevchonoles.org/math/course-notes/)
-  * [Peter Haine](https://math.berkeley.edu/~phaine/#research)
-  * [Daniel (Dani) Tubbenhauer](https://www.dtubbenhauer.com/)
+## People with good notes
+* [Evan Chen](https://web.evanchen.cc/coursework.html)
+  * [Napkin project](https://web.evanchen.cc/napkin.html)
+  * [MIT 18.02 (Multivariable Calculus)](https://web.evanchen.cc/1802.html)
+* [J.S. Milne](https://www.jmilne.org/math/)
+* [Arun Debray](https://adebray.github.io/lecture_notes/)
+* [David Mehrle](https://pi.math.cornell.edu/~dmehrle/notes/)
+* [Zev Chonoles](https://zevchonoles.org/math/course-notes/)
+* [Peter Haine](https://math.berkeley.edu/~phaine/#research)
+* [Daniel (Dani) Tubbenhauer](https://www.dtubbenhauer.com/)
 
 ## A tip on how to use `researchseminars.org`:
 
