@@ -165,6 +165,7 @@ title: Winston Cheong's page
   * [MIT 18.02 (Multivariable Calculus)](https://web.evanchen.cc/1802.html)
 * [J.S. Milne](https://www.jmilne.org/math/)
 * [Arun Debray](https://adebray.github.io/lecture_notes/)
+* [William (W.W.L.) Chen](https://www.williamchen-mathematics.info/ln.html) (analytic number theory, discrepancy theory)
 * [David Mehrle](https://pi.math.cornell.edu/~dmehrle/notes/)
 * [Zev Chonoles](https://zevchonoles.org/math/course-notes/)
 * [Peter Haine](https://math.berkeley.edu/~phaine/#research)
