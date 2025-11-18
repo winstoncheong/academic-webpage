@@ -26,11 +26,13 @@
 
 ## Handouts
 
-* [Derivative Rules](https://www.overleaf.com/read/jdrdvfwttfsn)
-* [Sign charts, quickly](https://www.overleaf.com/read/xnmpzxyfhctb)
-* [FTC vs Limit of Riemann Sum](https://www.overleaf.com/read/jrtbnfndcfhk#519ea7)
-* [FTC](https://www.overleaf.com/read/qzwbtqjmxwqd#7be7eb)
-* [Two approaches to u-sub for definite integrals](https://www.overleaf.com/read/wkthxvjcqmft#7b92fa)
+* [Derivative Rules](../../files/teaching/calc1/Derivative_Rules.pdf)
+* Sign charts, quickly 
+  * [handout](../../files/teaching/calc1/Sign_Charts__quickly_handout.pdf) 
+  * [slides](../../files/teaching/calc1/Sign_Charts__quickly_slides.pdf) 
+* [FTC vs Limit of Riemann Sum](../../files/teaching/calc1/Example_FTC_vs_limit_of_Riemann_sum.pdf)
+* [FTC](../../files/teaching/calc1/Fundamental_Theorem_of_Calculus__FTC_.pdf)
+* [Two approaches to u-sub for definite integrals](../../files/teaching/calc1/Two_approaches_to_u_sub_definite_integral.pdf)
 
 ## Additional Problems By Topic
 
