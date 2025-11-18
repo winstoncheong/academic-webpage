@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>2023 Spring &verbar; Calc 2</title>
-        <style>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>2023 Spring &verbar; Calc 2</title>
+            <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
@@ -11,12 +11,14 @@
  *--------------------------------------------------------------------------------------------*/
 
 .vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only] {
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
 	display: none;
 }
 
 </style>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
 <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
@@ -38,10 +40,106 @@
     pointer-events: none;
 }
 </style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
         
-    </head>
-    <body class="vscode-body vscode-light">
-        <h1 id="2023-spring--calc-2">2023 Spring | Calc 2</h1>
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="2023-spring--calc-2">2023 Spring | Calc 2</h1>
 <style>
  a:visited {
   color: darkorchid
@@ -65,6 +163,8 @@
 <li><a href="https://www.math.ksu.edu/student-success/undergraduate-success/help/helpsess.html">Help Session schedule</a> (staffed by math grad students, in Cardwell 041)</li>
 </ul>
 <p>Most material for this course is on Canvas.</p>
+<p>Update (2025 Nov): Some time after this course took place, BPRP sunset his web domain and put his PDF resources behind a paywall on Patreon.
+I've removed the dead links. His videos are still a good resource for students.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#2023-spring--calc-2">2023 Spring | Calc 2</a>
@@ -101,9 +201,8 @@
 <li>#30 will be used as ~5e~</li>
 </ul>
 </li>
-<li>Supplemental video on the DI method / layout:</li>
+<li><a href="https://www.youtube.com/watch?v=8xPfNuXLSwk">Supplemental video on the DI method / layout</a></li>
 </ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xPfNuXLSwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </li>
 <li>Recit 3 (Wed, Jan 25): Trig integrals
 <ul>
@@ -175,7 +274,7 @@
 </li>
 <li>Recit 13 (Wed, Mar 1): Hyperbolic functions
 <ul>
-<li>[<a href="https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms">https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms</a>]</li>
+<li><a href="https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms">Inverse hyperbolic functions in terms of logarithms</a></li>
 </ul>
 </li>
 <li>Recit 14 (Mon, Mar 6): (Separable) Differential Equations</li>
@@ -224,7 +323,6 @@
 <h2 id="other-resources">Other Resources</h2>
 <ul>
 <li><a href="https://tutorial.math.lamar.edu/classes/calcii/calcii.aspx">Paul's Online Notes &gt; Calc 2</a></li>
-<li><a href="https://www.blackpenredpen.com/calc2">blackpenredpen &gt; Calc 2</a></li>
 </ul>
 <h3 id="computer-aid-for-checking-answers">Computer Aid (For <em>checking</em> answers)</h3>
 <ul>
@@ -232,12 +330,6 @@
 </ul>
 <h2 id="math-background-refresher-calc-1--trig">Math background refresher (Calc 1 &amp; Trig)</h2>
 <ul>
-<li><a href="https://www.blackpenredpen.com/calc2">blackpenredpen &gt; Calc 2</a>
-<ul>
-<li>Under &quot;Videos with Worksheets&quot;, work through &quot;Watch This Before Calc 2&quot;</li>
-<li>Under &quot;Problem Set #1&quot;, work through &quot;So you think you can take the derivative&quot;, and &quot;Integral Battles&quot;</li>
-</ul>
-</li>
 <li><a href="https://tutorial.math.lamar.edu/classes/calci/calci.aspx">Paul's Online Notes &gt; Calc 1</a>
 <ul>
 <li>Has worked out practice problems</li>
@@ -255,20 +347,15 @@
 </li>
 </ul>
 <h2 id="integration-practice">Integration practice</h2>
-<p>I highly recommend the things made by <a href="https://www.blackpenredpen.com/calc2">blackpenredpen</a>.
-Particularly useful are his:</p>
 <ul>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf">Ultimate Calc 2 integral starter packet</a> with accompanying <a href="https://www.youtube.com/watch?v=XOUwIdufY9Y">video solutions</a></li>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf">100 integrals packet</a> with accompanying <a href="https://www.youtube.com/watch?v=dgm4-3-Iv3s">video solutions</a> and <a href="https://www.blackpenredpen.com/_files/ugd/287ba5_62e3789012b14a77ae31c0986f993ecc.pdf">video transcript</a></li>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf">Integration by parts worksheet</a></li>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_4c6cd42fbf9a4cc58be455f39ef6267e.pdf">Trig integrals worksheet</a> (<a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX">this playlist</a> might help)</li>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf">Trig sub worksheet</a> (<a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo">this playlist</a> might help)</li>
+<li><a href="https://www.youtube.com/watch?v=XOUwIdufY9Y">&quot;Ultimate integral starter&quot; video</a> (6 hours)</li>
+<li><a href="https://www.youtube.com/watch?v=dgm4-3-Iv3s">100 integrals video</a> (6 hours)</li>
+<li><a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX">Trig integrals playlist</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo">Trig sub playlist</a></li>
 </ul>
 <h2 id="series-things">Series things</h2>
 <ul>
 <li><a href="https://www.overleaf.com/read/rfmfhkchbtdf">Convergence Tests notes</a></li>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_7460f4c914a64263958b991439536519.pdf">BPRP Convergence Tests handout</a></li>
-<li><a href="https://www.blackpenredpen.com/_files/ugd/287ba5_c2c9c480845c41498f4b0d3242e37d21.pdf">BPRP Power series handout</a></li>
 <li><a href="https://www.youtube.com/watch?v=dZ5dtcJsxgI">BPRP's &quot;The List&quot;</a> (12 mins)
 <ul>
 <li>Quick way to intuit whether a series converges or diverges by comparing the relative growth of standard functions.  (You'll need to argue things more thoroughly on the exam.)</li>
@@ -279,7 +366,7 @@ Particularly useful are his:</p>
 <li><a href="https://www.youtube.com/watch?v=LKhvdkUdLtE">BPRP Power series study guide</a> (3.5 hours, 26.2 power series)</li>
 </ul>
 
-        <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
-        
-    </body>
-    </html>
+            <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+            
+        </body>
+        </html>

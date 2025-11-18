@@ -18,6 +18,10 @@
 
 Most material for this course is on Canvas.
 
+
+Update (2025 Nov): Some time after this course took place, BPRP sunset his web domain and put his PDF resources behind a paywall on Patreon.
+I've removed the dead links. His videos are still a good resource for students.
+
 ## Table of Contents
 
 - [2023 Spring | Calc 2](#2023-spring--calc-2)
@@ -42,8 +46,7 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 2 (Mon, Jan 23): Integration by parts
   * Section 3.1: 26, 27, 29, 32, 36, 38
     * #30 will be used as ~5e~
-  * Supplemental video on the DI method / layout:
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8xPfNuXLSwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  * [Supplemental video on the DI method / layout](https://www.youtube.com/watch?v=8xPfNuXLSwk)
 * Recit 3 (Wed, Jan 25): Trig integrals
   * [Writeup of the cases for $\int \sin^p(x) \cos^q(x) \ dx$ and $\int \tan^p(x) \sec^q(x) \ dx$](https://www.overleaf.com/read/nhsjpxjqjkpd)
   * Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102
@@ -77,7 +80,7 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 * Recit 12 (Mon, Feb 27): Review for Midterm 2 (on Tues, Feb 28)
   * [Midterm 2 Review Solutions](https://www.dropbox.com/s/odsm9afh77fc1ls/review2-sol.pdf?dl=0) (Try the problems for yourself, before referring to this!)
 * Recit 13 (Wed, Mar 1): Hyperbolic functions
-  * [https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms]
+  * [Inverse hyperbolic functions in terms of logarithms](https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms)
 * Recit 14 (Mon, Mar 6): (Separable) Differential Equations
 * Recit 15 (Wed, Mar 8): Sequences
 * Spring break (March 12--19)
@@ -116,7 +119,6 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 ## Other Resources
 
 * [Paul's Online Notes > Calc 2](https://tutorial.math.lamar.edu/classes/calcii/calcii.aspx)
-* [blackpenredpen > Calc 2](https://www.blackpenredpen.com/calc2)
 
 ### Computer Aid (For *checking* answers)
 
@@ -124,9 +126,6 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 
 ## Math background refresher (Calc 1 & Trig)
 
-* [blackpenredpen > Calc 2](https://www.blackpenredpen.com/calc2)
-  * Under "Videos with Worksheets", work through "Watch This Before Calc 2"
-  * Under "Problem Set #1", work through "So you think you can take the derivative", and "Integral Battles"
 * [Paul's Online Notes > Calc 1](https://tutorial.math.lamar.edu/classes/calci/calci.aspx)
   * Has worked out practice problems
 * Cheat sheets
@@ -136,20 +135,15 @@ Additional problems from the OpenStax Calc 2 textbook that seem decent / relevan
 
 ## Integration practice
 
-I highly recommend the things made by [blackpenredpen](https://www.blackpenredpen.com/calc2).
-Particularly useful are his:
 
-* [Ultimate Calc 2 integral starter packet](https://www.blackpenredpen.com/_files/ugd/287ba5_434067d1e62c46c184065780349cd084.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=XOUwIdufY9Y)
-* [100 integrals packet](https://www.blackpenredpen.com/_files/ugd/287ba5_9809e0bcf44548b79263bf7e0c70ad17.pdf) with accompanying [video solutions](https://www.youtube.com/watch?v=dgm4-3-Iv3s) and [video transcript](https://www.blackpenredpen.com/_files/ugd/287ba5_62e3789012b14a77ae31c0986f993ecc.pdf)
-* [Integration by parts worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_472a69bac7d74d3ab272d0dd6bccd170.pdf)
-* [Trig integrals worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_4c6cd42fbf9a4cc58be455f39ef6267e.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX) might help)
-* [Trig sub worksheet](https://www.blackpenredpen.com/_files/ugd/287ba5_f6e66543dc674672a69a3ada59d0005d.pdf) ([this playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo) might help)
+* ["Ultimate integral starter" video](https://www.youtube.com/watch?v=XOUwIdufY9Y) (6 hours)
+* [100 integrals video](https://www.youtube.com/watch?v=dgm4-3-Iv3s) (6 hours)
+* [Trig integrals playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX)
+* [Trig sub playlist](https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo)
 
 ## Series things
 
 * [Convergence Tests notes](https://www.overleaf.com/read/rfmfhkchbtdf)
-* [BPRP Convergence Tests handout](https://www.blackpenredpen.com/_files/ugd/287ba5_7460f4c914a64263958b991439536519.pdf)
-* [BPRP Power series handout](https://www.blackpenredpen.com/_files/ugd/287ba5_c2c9c480845c41498f4b0d3242e37d21.pdf)
 * [BPRP's "The List"](https://www.youtube.com/watch?v=dZ5dtcJsxgI) (12 mins)
   * Quick way to intuit whether a series converges or diverges by comparing the relative growth of standard functions.  (You'll need to argue things more thoroughly on the exam.)
 * [BPRP's 100 Series video](https://www.youtube.com/watch?v=jTuTEcwvkP4) (6 hrs)
