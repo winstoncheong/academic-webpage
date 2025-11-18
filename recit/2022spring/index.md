@@ -54,16 +54,8 @@
 
 ## Trig resources
 
-* My unit circle cheatsheet [here](https://www.overleaf.com/read/pjpffsrkrhfx)
-* My formula sheet / notes [here](https://www.overleaf.com/read/rrmdqtkckcvx)
-  * This is a living document. Changes are still being made to it.
-  * Changelog:
-    * Mar 1, 2022: Added margin notes for the supplement formulas, add $\pi$ formulas and "formulas for negatives". Added separator for post-midterm-2 material. Added section on sketching sinusoidal functions (Covered in Hw 5. Section 2.5 of Nagy's textbook).
-    * Mar 29, 2022: Added Section 3.1 Material (dot product and skew product, dot/skew product theorem, vector angle formulas). Added separator for post-midterm-3 material. Clarified how to read off values from sine graph. Added useful info for inverse trig functions.
-    * Apr 4, 2022: Added information on the problems of evaluating arctrig(trig()). Added formulas for how Nagy does this type of problem. Added more about vector geometry (unit direction vector, vector magnitude, deconstruction and reconstruction). Added material for hw 8 (orthogonality, projection, area of parallelogram and triangle, law of sines, law of cosines, general triangle solving)
-    * Apr 18, 2022: Added Triangle Area formulas (SAS and Heron's)
-    * Apr 26, 2022: Added section on formula combining sine and cosine of same frequency. Added warning on the $\pm$ in the half-angle formulas. Edited sum-to-product formulas to make things less error prone.
-    * May 3, 2022: Added material on complex numbers (Converting between polar and cartesian, De Moivre's formula, roots of complex numbers)
+* My unit circle cheatsheet [here](../../files/Unit_Circle.pdf). Source available [here](https://www.overleaf.com/read/pjpffsrkrhfx).
+* My formula sheet / notes for this course [here](../../files/Nagy_Trig.pdf). Source available [here](https://www.overleaf.com/read/rrmdqtkckcvx).
 
 ## Other Resources
 
