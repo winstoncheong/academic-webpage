@@ -37,6 +37,8 @@ title: Winston Cheong's page
 # Table of Contents
 - [Winston Cheong](#winston-cheong)
 - [Table of Contents](#table-of-contents)
+- [Education](#education)
+- [Awards](#awards)
 - [Research interests](#research-interests)
   - [Current](#current)
   - [During Undergrad](#during-undergrad)
@@ -52,6 +54,14 @@ title: Winston Cheong's page
   - [A tip on how to use `researchseminars.org`:](#a-tip-on-how-to-use-researchseminarsorg)
 
 
+# Education
+* Masters in Mathematics, Kansas State Univeristy (2020)
+* Bachelors of Science in Mathematics, Rowan University (2016)
+* Bachelors of Science in Computer Science, Rowan University (2016)
+
+# Awards
+* [Dean's Outstanding Senior Awards (2016)](https://csm.rowan.edu/students/dosa/dosa2016.html)
+* [College of Science and Mathematics STEM Excellence in Research Award (2014)](https://csm.rowan.edu/departments/math/Newsletters/AY1314/Vol7No2.pdf)
 
 # Research interests
 
