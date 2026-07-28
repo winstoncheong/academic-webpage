@@ -33,7 +33,6 @@ title: Winston Cheong's page
 </div>
 
 * Email: `cheong.winston1337 at gmail dot com`
-* Affiliation: Rowan University. `cheong94 [at] rowan [dot] edu`
 
 # Table of Contents
 - [Winston Cheong](#winston-cheong)
@@ -69,7 +68,7 @@ title: Winston Cheong's page
 
 ## Current
 * Autoformalization
-* Derived algebraic geometry
+* Derived geometry
 * ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
 * Langlands program
