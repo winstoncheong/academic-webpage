@@ -1,10 +1,6 @@
 # 2022 Spring | Trig
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
+<link rel="stylesheet" href="../../assets/style.css">
 
 * Course Coordinator:
   * Nagy

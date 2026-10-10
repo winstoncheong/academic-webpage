@@ -1,10 +1,6 @@
 # 2022 Fall | Calc 3
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
+<link rel="stylesheet" href="../../assets/style.css">
 
 * Course Coordinator:
   * Dr. Ivan Blank

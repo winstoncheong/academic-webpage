@@ -1,10 +1,6 @@
 # 2023 Spring | Calc 2
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
+<link rel="stylesheet" href="../../assets/style.css">
 
 * Course Coordinator:
   * Dr. Lino Amorim

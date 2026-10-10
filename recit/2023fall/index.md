@@ -1,10 +1,6 @@
 # 2023 Fall | Calc 1
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
+<link rel="stylesheet" href="../../assets/style.css">
 
 * Course Coordinator:
   * Dr. Craig Spencer
