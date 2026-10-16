@@ -105,7 +105,7 @@ I use this section to keep track of seminars and conferences I attend, including
 
 * [ICM 2022](https://www.mathunion.org/icm/virtual-icm-2022) (virtual) — International Congress of Mathematicians
 * [String Math 2020](https://indico.cern.ch/event/938492/) (virtual) — String Math conference held online during the pandemic (July 2020)
-* [Flag variety lecture notes](https://sites.google.com/view/flagvariety/lecture-notes?authuser=0) — virtual attendance/lecture materials
+* [Flag varieties](https://sites.google.com/view/flagvariety/home?authuser=0) — virtual attendance/lecture materials
 * [Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/program) — RTG 2491 summer school, Göttingen, 27–31 July 2026 (virtual attendance)
 
 # Teaching
