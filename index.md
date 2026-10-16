@@ -103,10 +103,10 @@ These are seminar pages/notes I find useful; I did not necessarily attend all of
 
 I use this section to keep track of seminars and conferences I attend, including virtual ones.
 
-* [ICM 2022](https://www.mathunion.org/icm/virtual-icm-2022) (virtual) — International Congress of Mathematicians
-* [String Math 2020](https://indico.cern.ch/event/938492/) (virtual) — String Math conference held online during the pandemic (July 2020)
-* [Combinatorics on Flag Varieties and Related Topics 2021](https://sites.google.com/view/flagvariety/home?authuser=0) — Jan 25–27, 2021 (Ajou University and online)
 * [Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/program) — RTG 2491 summer school, Göttingen, 27–31 July 2026 (virtual attendance)
+* [ICM 2022](https://www.mathunion.org/icm/virtual-icm-2022) (virtual) — International Congress of Mathematicians (6–14 July 2022)
+* [Combinatorics on Flag Varieties and Related Topics 2021](https://sites.google.com/view/flagvariety/home?authuser=0) — Jan 25–27, 2021 (Ajou University and online)
+* [String Math 2020](https://indico.cern.ch/event/938492/) (virtual) — String Math conference held online during the pandemic (July 2020)
 
 # Teaching
 
