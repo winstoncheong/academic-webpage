@@ -95,7 +95,7 @@
 * [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
 * [My translations page](https://winstoncheong.github.io/translations/) — English translations of mathematical papers, built from LaTeX
 * [My arXiv fixes](https://winstoncheong.github.io/arxiv-fixes/) — repaired/compilable versions of older arXiv papers, with hyperlinks and bookmarks
-* [sga4.5](https://github.com/winstoncheong/sga4.5) — repository/notes related to SGA 4½
+* [sga4.5](https://winstoncheong.github.io/sga4.5/) — notes/site for SGA 4½
 
 # Seminar pages with useful information
 
