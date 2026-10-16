@@ -88,7 +88,9 @@
 * [Adjectives Project](https://adjectivesproject.org/)
 * [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
 
-# Some seminar pages
+# Seminar pages with useful information
+
+These are seminar pages/notes I find useful; I did not necessarily attend all of them live.
 
 * [M-seminar](https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html), [youtube channel](https://www.youtube.com/@m-seminar_ksu/)
 * [WHCGP seminar](https://web.math.ucsb.edu/~drm/WHCGP/)
@@ -96,6 +98,15 @@
 * [Paris algebra seminar](https://researchseminars.org/seminar/paris-algebra-seminar)
 * [BunG seminar](https://math.uchicago.edu/bundles/), [their YT](https://www.youtube.com/@bungseminar/videos)
 
+
+# Seminars and events attended
+
+I use this section to keep track of seminars and conferences I attend, including virtual ones.
+
+* ICM 2022 (virtual/remote) — International Congress of Mathematicians
+* String Math 2020 (virtual) — String Math conference held online during the pandemic (July 2020)
+* [Flag variety lecture notes](https://sites.google.com/view/flagvariety/lecture-notes?authuser=0) — virtual attendance/lecture materials
+* [Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/program) — RTG 2491 summer school, Göttingen, 27–31 July 2026 (in person)
 
 # Teaching
 
