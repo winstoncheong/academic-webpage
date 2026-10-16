@@ -78,15 +78,24 @@
 # Possibly useful things
 
 * [Verdier's thesis](./files/verdier_thesis.pdf) (converted over from the ps files [here](https://webusers.imj-prg.fr/~georges.maltsiniotis/jlv.html))
-* [translation of Lefevre-Hasegawa's thesis](./files/lefevre-hasegawa-thesis.pdf)
+* English translation of [Lefevre-Hasegawa's thesis](./files/lefevre-hasegawa-thesis.pdf)
 * Interactive math utilities by [Pieter Belmans](https://pbelmans.ncag.info/) ([Github profile](https://github.com/pbelmans)):
-  * <https://www.fanography.info/>
-  * <https://www.grassmannian.info/>
-  * <https://www.hyperkaehler.info/>
-  * <https://superficie.info/#input>
-  * <http://pbelmans.ncag.info/cohomology-tables/>
+  * [fanography.info](https://www.fanography.info/) — a tool to visually study the geography of Fano 3-folds (see also [cubic fourfolds](https://cubics.fanography.info) and [rationality questions](https://rationality.fanography.info))
+  * [grassmannian.info](https://www.grassmannian.info/) — a periodic table of (generalised) Grassmannians
+  * [hyperkaehler.info](https://www.hyperkaehler.info/) — the geography of irreducible holomorphic symplectic (hyperkähler) varieties
+  * [mgnbar.info](https://mgnbar.info/) — the geometry of $\overline{\mathrm{M}}_{g,n}$
+  * [superficie.info](https://superficie.info/#input) — interactive geography of (minimal) complex algebraic smooth surfaces
+  * [cutter.ncag.info](https://cutter.ncag.info/) — Hodge diamond cutter: work with Hodge diamonds, with many varieties and constructions built in
+  * [quiver.tools](https://quiver.tools/) — QuiverTools: work with quivers and moduli of quiver representations
+  * [homogeneous.tools](https://homogeneous.tools/) — sheaf cohomology on partial flag varieties and homogeneous spaces
+  * [ncag.info/cohomology-tables](http://pbelmans.ncag.info/cohomology-tables/) — cohomology of twists of the structure sheaf / Hodge diamonds for complete intersections
+  * [bibgetter](https://bibgetter.github.io/) — automatically resolve MathSciNet and arXiv identifiers in LaTeX bibliographies
+  * [gerby-project](https://gerby-project.github.io/) — the system underlying the Stacks project, Kerodon, etc.
 * [Adjectives Project](https://adjectivesproject.org/) — a database/examples of schemes and morphisms indexed by combinations of adjectives (e.g. separated, proper, etc.)
 * [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
+* [My translations page](https://winstoncheong.github.io/translations/) — English translations of mathematical papers, built from LaTeX
+* [My arXiv fixes](https://winstoncheong.github.io/arxiv-fixes/) — repaired/compilable versions of older arXiv papers, with hyperlinks and bookmarks
+* [sga4.5](https://github.com/winstoncheong/sga4.5) — repository/notes related to SGA 4½
 
 # Seminar pages with useful information
 
