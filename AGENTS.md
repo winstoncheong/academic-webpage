@@ -21,7 +21,9 @@ Requirements:
 - Python
 - Pandoc
 
-The script renders every Markdown source with `templates/page.html` and links `assets/site.css`.
+Generated HTML is build output and is gitignored (`*.html`). Run the build locally
+before previewing the site. The script renders every Markdown source with
+`templates/page.html` and links `assets/site.css`.
 
 ## Design
 - Shared CSS: `assets/site.css`
