@@ -1,372 +1,367 @@
 <!DOCTYPE html>
-        <html>
-        <head>
-            <meta charset="UTF-8">
-            <title>2023 Spring &verbar; Calc 2</title>
-            <style>
-/* From extension vscode.github */
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-.vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only],
-.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
-.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
-	display: none;
-}
-
-</style>
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
-<style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
-                font-size: 14px;
-                line-height: 1.6;
-            }
-        </style>
-        <style>
-.task-list-item {
-    list-style-type: none;
-}
-
-.task-list-item-checkbox {
-    margin-left: -20px;
-    vertical-align: middle;
-    pointer-events: none;
-}
-</style>
-<style>
-:root {
-  --color-note: #0969da;
-  --color-tip: #1a7f37;
-  --color-warning: #9a6700;
-  --color-severe: #bc4c00;
-  --color-caution: #d1242f;
-  --color-important: #8250df;
-}
-
-</style>
-<style>
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-note: #2f81f7;
-    --color-tip: #3fb950;
-    --color-warning: #d29922;
-    --color-severe: #db6d28;
-    --color-caution: #f85149;
-    --color-important: #a371f7;
-  }
-}
-
-</style>
-<style>
-.markdown-alert {
-  padding: 0.5rem 1rem;
-  margin-bottom: 16px;
-  color: inherit;
-  border-left: .25em solid #888;
-}
-
-.markdown-alert>:first-child {
-  margin-top: 0
-}
-
-.markdown-alert>:last-child {
-  margin-bottom: 0
-}
-
-.markdown-alert .markdown-alert-title {
-  display: flex;
-  font-weight: 500;
-  align-items: center;
-  line-height: 1
-}
-
-.markdown-alert .markdown-alert-title .octicon {
-  margin-right: 0.5rem;
-  display: inline-block;
-  overflow: visible !important;
-  vertical-align: text-bottom;
-  fill: currentColor;
-}
-
-.markdown-alert.markdown-alert-note {
-  border-left-color: var(--color-note);
-}
-
-.markdown-alert.markdown-alert-note .markdown-alert-title {
-  color: var(--color-note);
-}
-
-.markdown-alert.markdown-alert-important {
-  border-left-color: var(--color-important);
-}
-
-.markdown-alert.markdown-alert-important .markdown-alert-title {
-  color: var(--color-important);
-}
-
-.markdown-alert.markdown-alert-warning {
-  border-left-color: var(--color-warning);
-}
-
-.markdown-alert.markdown-alert-warning .markdown-alert-title {
-  color: var(--color-warning);
-}
-
-.markdown-alert.markdown-alert-tip {
-  border-left-color: var(--color-tip);
-}
-
-.markdown-alert.markdown-alert-tip .markdown-alert-title {
-  color: var(--color-tip);
-}
-
-.markdown-alert.markdown-alert-caution {
-  border-left-color: var(--color-caution);
-}
-
-.markdown-alert.markdown-alert-caution .markdown-alert-title {
-  color: var(--color-caution);
-}
-
-</style>
-        
-        </head>
-        <body class="vscode-body vscode-light">
-            <h1 id="2023-spring--calc-2">2023 Spring | Calc 2</h1>
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
-<ul>
-<li>Course Coordinator:
-<ul>
-<li>Dr. Lino Amorim</li>
-</ul>
-</li>
-<li>Recitation Instructor:
-<ul>
-<li>Winston Cheong</li>
-<li><a href="mailto:winstonc@ksu.edu">winstonc@ksu.edu</a></li>
-<li>Recitations: MW 11:30–12:30 and 1:30–2:30</li>
-<li>Office Hours: MW 12:30–1:30 &amp; by appointment</li>
-<li><a href="https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09">Zoom personal meeting room</a></li>
-</ul>
-</li>
-<li><a href="https://www.math.ksu.edu/student-success/undergraduate-success/help/helpsess.html">Help Session schedule</a> (staffed by math grad students, in Cardwell 041)</li>
-</ul>
-<p>Most material for this course is on Canvas.</p>
-<p>Update (2025 Nov): Some time after this course took place, BPRP sunset his web domain and put his PDF resources behind a paywall on Patreon.
-I've removed the dead links. His videos are still a good resource for students.</p>
-<h2 id="table-of-contents">Table of Contents</h2>
-<ul>
-<li><a href="#2023-spring--calc-2">2023 Spring | Calc 2</a>
-<ul>
-<li><a href="#table-of-contents">Table of Contents</a></li>
-<li><a href="#recitation-schedule--notes">Recitation Schedule / Notes</a></li>
-<li><a href="#ksu-math-exam-archive">KSU Math Exam Archive</a></li>
-<li><a href="#exam-solutions">Exam Solutions</a></li>
-<li><a href="#other-resources">Other Resources</a>
-<ul>
-<li><a href="#computer-aid-for-checking-answers">Computer Aid (For <em>checking</em> answers)</a></li>
-</ul>
-</li>
-<li><a href="#math-background-refresher-calc-1--trig">Math background refresher (Calc 1 &amp; Trig)</a></li>
-<li><a href="#integration-practice">Integration practice</a></li>
-<li><a href="#series-things">Series things</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="recitation-schedule--notes">Recitation Schedule / Notes</h2>
-<p>Additional problems from the OpenStax Calc 2 textbook that seem decent / relevant are listed below. A subset of them will be worked through in recitation.</p>
-<ul>
-<li>Recit 1 (Wed, Jan 18): U-substitution
-<ul>
-<li>Section 1.5: 277, 280, 282, 297</li>
-<li>Section 1.6: 331, 334, 352</li>
-<li>Section 1.7: 412, 414, 423, 424, 429</li>
-</ul>
-</li>
-<li>Recit 2 (Mon, Jan 23): Integration by parts
-<ul>
-<li>Section 3.1: 26, 27, 29, 32, 36, 38
-<ul>
-<li>#30 will be used as ~5e~</li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=8xPfNuXLSwk">Supplemental video on the DI method / layout</a></li>
-</ul>
-</li>
-<li>Recit 3 (Wed, Jan 25): Trig integrals
-<ul>
-<li><a href="https://www.overleaf.com/read/nhsjpxjqjkpd">Writeup of the cases for <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>∫</mo><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mi>p</mi></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mi>q</mi></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">\int \sin^p(x) \cos^q(x) \ dx</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1111em;vertical-align:-0.3061em;"></span><span class="mop op-symbol small-op" style="margin-right:0.19445em;position:relative;top:-0.0006em;">∫</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">sin</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7222em;"><span style="top:-3.1208em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">cos</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace"> </span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span> and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>∫</mo><msup><mrow><mi>tan</mi><mo>⁡</mo></mrow><mi>p</mi></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><msup><mrow><mi>sec</mi><mo>⁡</mo></mrow><mi>q</mi></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext> </mtext><mi>d</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">\int \tan^p(x) \sec^q(x) \ dx</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1111em;vertical-align:-0.3061em;"></span><span class="mop op-symbol small-op" style="margin-right:0.19445em;position:relative;top:-0.0006em;">∫</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">tan</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6694em;"><span style="top:-3.068em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">p</span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">sec</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace"> </span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span></a></li>
-<li>Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102</li>
-<li>Recommended Exercise: Rederive the reduction formulas for <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mi>n</mi></msup><mo separator="true">,</mo><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mi>n</mi></msup><mo separator="true">,</mo><msup><mrow><mi>tan</mi><mo>⁡</mo></mrow><mi>n</mi></msup><mo separator="true">,</mo><msup><mrow><mi>sec</mi><mo>⁡</mo></mrow><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">\sin^n, \cos^n, \tan^n, \sec^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9166em;vertical-align:-0.1944em;"></span><span class="mop"><span class="mop">sin</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7222em;"><span style="top:-3.1208em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">cos</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">tan</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6694em;"><span style="top:-3.068em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">sec</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span> given in class. Also, check that they still work when <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">n=2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span> (assuming that <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mn>0</mn></msup><mo>=</mo><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mn>0</mn></msup><mo>=</mo><msup><mrow><mi>tan</mi><mo>⁡</mo></mrow><mn>0</mn></msup><mo>=</mo><msup><mrow><mi>sec</mi><mo>⁡</mo></mrow><mn>0</mn></msup><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\sin^0 = \cos^0 = \tan^0 = \sec^0 = 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8719em;"></span><span class="mop"><span class="mop">sin</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8719em;"><span style="top:-3.1208em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mop"><span class="mop">cos</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8191em;"></span><span class="mop"><span class="mop">tan</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8191em;"><span style="top:-3.068em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mop"><span class="mop">sec</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span>).
-<ul>
-<li>Do give this a go, before looking at my <a href="https://www.overleaf.com/read/wqzshgqrpdjm">writeup of this exercise</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
-<ul>
-<li><a href="https://www.overleaf.com/read/jjhvrxhqzzgg">Trig Sub Table</a></li>
-<li>Section 3.3: 134, 138, 139, 140
-<ul>
-<li>147 will be used as ~4d~</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Recit 5 (Wed, Feb 1): Polynomial factorization, integrals of rational functions / Partial fraction decomposition
-<ul>
-<li>Factorization formulas for difference of squares, sum and difference of cubes</li>
-<li>The discriminant of a quadratic, and how it allows us to check factorizability over <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="double-struck">R</mi></mrow><annotation encoding="application/x-tex">\mathbb{R}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6889em;"></span><span class="mord mathbb">R</span></span></span></span></li>
-<li>Rational root theorem</li>
-<li>Polynomial long division vs. synthetic division</li>
-</ul>
-</li>
-<li>Recit 6 (Mon, Feb 6): Partial fraction decomposition cont
-<ul>
-<li>Section 3.4: 197, 199, 200, 205, 206, 207, 211, 212
-<ul>
-<li>199, 206, 205, 207 will be used as ~3 A-E~</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Recit 7 (Wed, Feb 8): Numerical integration
-<ul>
-<li><a href="https://www.overleaf.com/read/sdrkwkrxchyc">Brief notes</a></li>
-</ul>
-</li>
-<li>Recit 8 (Mon, Feb 13): Improper Integrals</li>
-<li>Recit 9 (Wed, Feb 15): Arclength, Surface area
-<ul>
-<li>The formulas I explained in recitation were taken from <a href="https://tutorial.math.lamar.edu/classes/calcii/surfacearea.aspx">Paul's Online Notes &gt; Surface Area</a></li>
-<li>Extra: <a href="https://www.wikiwand.com/en/Gabriel%27s_horn">Gabriel's Horn</a>, a mathematical object with infinite surface area but finite volume. After one has learned how to compute improper integrals, and knows the formulas for surface area and volume of a solid of revolution, this assertion can be checked.</li>
-</ul>
-</li>
-<li>Recit 10 (Mon, Feb 20): Work
-<ul>
-<li>Due to the snow day, this topic is now optional and will not be in the exams. I will still cover it in recitation.</li>
-<li><a href="https://www.dropbox.com/s/f8am1t72huaesvt/lect-10-sol.pdf?dl=0">Lecture 10 with solutions</a></li>
-<li><a href="https://tutorial.math.lamar.edu/Classes/CalcI/Work.aspx">Paul's Online Notes &gt; Work</a></li>
-</ul>
-</li>
-<li>Recit 11 (Wed, Feb 22): Center of mass
-<ul>
-<li><a href="https://www.overleaf.com/read/wzsvhrzrgfvs">Formulas all on one page</a></li>
-<li><a href="https://www.dropbox.com/s/vqm7v0wfqiaw6sq/hw6.6.pdf?dl=0">Hw 6 Problem 6 solution</a> (Wrote this up because the values are nasty)</li>
-</ul>
-</li>
-<li>Recit 12 (Mon, Feb 27): Review for Midterm 2 (on Tues, Feb 28)
-<ul>
-<li><a href="https://www.dropbox.com/s/odsm9afh77fc1ls/review2-sol.pdf?dl=0">Midterm 2 Review Solutions</a> (Try the problems for yourself, before referring to this!)</li>
-</ul>
-</li>
-<li>Recit 13 (Wed, Mar 1): Hyperbolic functions
-<ul>
-<li><a href="https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms">Inverse hyperbolic functions in terms of logarithms</a></li>
-</ul>
-</li>
-<li>Recit 14 (Mon, Mar 6): (Separable) Differential Equations</li>
-<li>Recit 15 (Wed, Mar 8): Sequences</li>
-<li>Spring break (March 12--19)</li>
-<li>Recit 16 (Mon, Mar 20): Series</li>
-<li>Recit 17 (Wed, Mar 22): Integral test</li>
-<li>Recit 18 (Mon, Mar 27): Comparison tests</li>
-<li>Recit 19 (Wed, Mar 29): Alternating Series</li>
-<li>Recit 20 (Mon, Apr 3): Review for midterm 3 (on April 4)
-<ul>
-<li><a href="https://www.dropbox.com/s/lsfs8vxujqbq8r8/review3-sol.pdf?dl=0">Midterm 3 Review Solutions</a></li>
-</ul>
-</li>
-<li>Recit 21 (Wed, Apr 5): Ratio and root tests</li>
-<li>Recit 22 (Mon, Apr 10): Power series</li>
-<li>Recit 23 (Wed, Apr 12): Taylor series</li>
-<li>Recit 24 (Mon, Apr 17): Taylor series II</li>
-<li>Recit 25 (Wed, Apr 19): Parametric curves</li>
-<li>Recit 26 (Mon, Apr 24): Parametric calculus</li>
-<li>Recit 27 (Wed, Apr 26): Polar coordinates
-<ul>
-<li><a href="https://www.desmos.com/calculator/pzb2xlqh6z">Desmos &gt; Limacon / Cardioid</a></li>
-<li><a href="https://www.desmos.com/calculator/rrv2x4lzci">Desmos &gt; Rose Curve</a></li>
-</ul>
-</li>
-<li>Recit 28 (Mon, May 1): Area and length in polar coordinates</li>
-<li>Recit 29 (Wed, May 3): Review for final</li>
-<li>Recit 29 (Mon, May 8): Review for final (do we still meet?)</li>
-</ul>
-<h2 id="ksu-math-exam-archive">KSU Math Exam Archive</h2>
-<p><a href="https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc2/">https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc2/</a></p>
-<blockquote>
-<p>Particularly relevant are the 2020 Spring, 2019 Spring, and 2018 Spring semesters.</p>
-</blockquote>
-<h2 id="exam-solutions">Exam Solutions</h2>
-<ul>
-<li><a href="https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0">Midterm 1 mysol</a></li>
-<li><a href="https://www.dropbox.com/s/jpjlfeqtsuzzeu0/exam2-mysol.pdf?dl=0">Midterm 2 mysol</a></li>
-<li><a href="https://www.dropbox.com/s/f59fpk20tpxadb3/math221_S23_mid_3_sols.pdf?dl=0">Midterm 3</a>
-<ul>
-<li><a href="https://www.dropbox.com/s/dsqzgfza4if81s4/exam3-comments.pdf?dl=0">Midterm 3 comments</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="other-resources">Other Resources</h2>
-<ul>
-<li><a href="https://tutorial.math.lamar.edu/classes/calcii/calcii.aspx">Paul's Online Notes &gt; Calc 2</a></li>
-</ul>
-<h3 id="computer-aid-for-checking-answers">Computer Aid (For <em>checking</em> answers)</h3>
-<ul>
-<li><a href="https://www.wolframalpha.com/">Wolfram Alpha</a></li>
-</ul>
-<h2 id="math-background-refresher-calc-1--trig">Math background refresher (Calc 1 &amp; Trig)</h2>
-<ul>
-<li><a href="https://tutorial.math.lamar.edu/classes/calci/calci.aspx">Paul's Online Notes &gt; Calc 1</a>
-<ul>
-<li>Has worked out practice problems</li>
-</ul>
-</li>
-<li>Cheat sheets
-<ul>
-<li><a href="https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx">Paul's Online Notes &gt; Cheat Sheets &amp; Tables</a>
-<ul>
-<li>Look at &quot;Common Derivatives and Integrals&quot; and &quot;Trig Cheat Sheet&quot;. Maybe also &quot;Complete Calculus Cheat Sheet&quot;</li>
-</ul>
-</li>
-<li><a href="https://www.overleaf.com/read/pjpffsrkrhfx">My Unit Circle cheatsheet</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="integration-practice">Integration practice</h2>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=XOUwIdufY9Y">&quot;Ultimate integral starter&quot; video</a> (6 hours)</li>
-<li><a href="https://www.youtube.com/watch?v=dgm4-3-Iv3s">100 integrals video</a> (6 hours)</li>
-<li><a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX">Trig integrals playlist</a></li>
-<li><a href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo">Trig sub playlist</a></li>
-</ul>
-<h2 id="series-things">Series things</h2>
-<ul>
-<li><a href="https://www.overleaf.com/read/rfmfhkchbtdf">Convergence Tests notes</a></li>
-<li><a href="https://www.youtube.com/watch?v=dZ5dtcJsxgI">BPRP's &quot;The List&quot;</a> (12 mins)
-<ul>
-<li>Quick way to intuit whether a series converges or diverges by comparing the relative growth of standard functions.  (You'll need to argue things more thoroughly on the exam.)</li>
-</ul>
-</li>
-<li><a href="https://www.youtube.com/watch?v=jTuTEcwvkP4">BPRP's 100 Series video</a> (6 hrs)</li>
-<li><a href="https://www.youtube.com/watch?v=Od2YAt1_ibE">BPRP &quot;What Series Convergence Test Do I Use?&quot; livestream</a> (1.5 hours, 15 series)</li>
-<li><a href="https://www.youtube.com/watch?v=LKhvdkUdLtE">BPRP Power series study guide</a> (3.5 hours, 26.2 power series)</li>
-</ul>
-
-            <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
-            
-        </body>
-        </html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2023 Spring | Calc 2</title>
+  <meta name="description" content="Academic webpage of Winston Cheong.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="stylesheet" href="../../assets/site.css">
+  
+  <script>
+    (function () {
+      try {
+        var stored = localStorage.getItem("theme");
+        if (stored === "dark" || stored === "light") {
+          document.documentElement.setAttribute("data-theme", stored);
+        }
+      } catch (e) {}
+    })();
+  </script>
+    <script defer=""
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    type="text/javascript"></script>
+  </head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="site-header">
+    <div class="nav">
+      <a class="brand" href="../../index.html">Winston Cheong</a>
+      <nav class="navlinks" aria-label="Primary">
+        <a href="../../index.html">Home</a>
+        <a href="../../index.html#teaching">Teaching</a>
+        <a href="../../latex.html">LaTeX</a>
+        <button class="theme-toggle" type="button" id="themeToggle" aria-label="Toggle color theme">◐</button>
+      </nav>
+    </div>
+  </header>
+  <main id="content" class="wrap">
+    <article class="content">
+      <section id="2023-spring--calc-2" class="level1">
+      <h1>2023 Spring | Calc 2</h1>
+      <ul>
+      <li>Course Coordinator:
+      <ul>
+      <li>Dr. Lino Amorim</li>
+      </ul></li>
+      <li>Recitation Instructor:
+      <ul>
+      <li>Winston Cheong</li>
+      <li><a href="mailto:winstonc@ksu.edu">winstonc@ksu.edu</a></li>
+      <li>Recitations: MW 11:30–12:30 and 1:30–2:30</li>
+      <li>Office Hours: MW 12:30–1:30 &amp; by appointment</li>
+      <li><a
+      href="https://ksu.zoom.us/j/2293865582?pwd=Z0dqUTQrUSt6THRBOW41SG43aitmdz09">Zoom
+      personal meeting room</a></li>
+      </ul></li>
+      <li><a
+      href="https://www.math.ksu.edu/student-success/undergraduate-success/help/helpsess.html">Help
+      Session schedule</a> (staffed by math grad students, in Cardwell
+      041)</li>
+      </ul>
+      <p>Most material for this course is on Canvas.</p>
+      <p>Update (2025 Nov): Some time after this course took place, BPRP
+      sunset his web domain and put his PDF resources behind a paywall
+      on Patreon. I've removed the dead links. His videos are still a
+      good resource for students.</p>
+      <section id="table-of-contents" class="level2">
+      <h2>Table of Contents</h2>
+      <ul>
+      <li><a href="#2023-spring--calc-2">2023 Spring | Calc 2</a>
+      <ul>
+      <li><a href="#table-of-contents">Table of Contents</a></li>
+      <li><a href="#recitation-schedule--notes">Recitation Schedule /
+      Notes</a></li>
+      <li><a href="#ksu-math-exam-archive">KSU Math Exam
+      Archive</a></li>
+      <li><a href="#exam-solutions">Exam Solutions</a></li>
+      <li><a href="#other-resources">Other Resources</a>
+      <ul>
+      <li><a href="#computer-aid-for-checking-answers">Computer Aid (For
+      <em>checking</em> answers)</a></li>
+      </ul></li>
+      <li><a href="#math-background-refresher-calc-1--trig">Math
+      background refresher (Calc 1 &amp; Trig)</a></li>
+      <li><a href="#integration-practice">Integration practice</a></li>
+      <li><a href="#series-things">Series things</a></li>
+      </ul></li>
+      </ul>
+      </section>
+      <section id="recitation-schedule--notes" class="level2">
+      <h2>Recitation Schedule / Notes</h2>
+      <p>Additional problems from the OpenStax Calc 2 textbook that seem
+      decent / relevant are listed below. A subset of them will be
+      worked through in recitation.</p>
+      <ul>
+      <li>Recit 1 (Wed, Jan 18): U-substitution
+      <ul>
+      <li>Section 1.5: 277, 280, 282, 297</li>
+      <li>Section 1.6: 331, 334, 352</li>
+      <li>Section 1.7: 412, 414, 423, 424, 429</li>
+      </ul></li>
+      <li>Recit 2 (Mon, Jan 23): Integration by parts
+      <ul>
+      <li>Section 3.1: 26, 27, 29, 32, 36, 38
+      <ul>
+      <li>#30 will be used as ~5e~</li>
+      </ul></li>
+      <li><a
+      href="https://www.youtube.com/watch?v=8xPfNuXLSwk">Supplemental
+      video on the DI method / layout</a></li>
+      </ul></li>
+      <li>Recit 3 (Wed, Jan 25): Trig integrals
+      <ul>
+      <li><a href="https://www.overleaf.com/read/nhsjpxjqjkpd">Writeup
+      of the cases for <span class="math inline">\(\int \sin^p(x)
+      \cos^q(x) \ dx\)</span> and <span class="math inline">\(\int
+      \tan^p(x) \sec^q(x) \ dx\)</span></a></li>
+      <li>Section 3.2: 82, 83, 89, 90, 91, 99, 100, 102</li>
+      <li>Recommended Exercise: Rederive the reduction formulas for
+      <span class="math inline">\(\sin^n, \cos^n, \tan^n,
+      \sec^n\)</span> given in class. Also, check that they still work
+      when <span class="math inline">\(n=2\)</span> (assuming that <span
+      class="math inline">\(\sin^0 = \cos^0 = \tan^0 = \sec^0 =
+      1\)</span>).
+      <ul>
+      <li>Do give this a go, before looking at my <a
+      href="https://www.overleaf.com/read/wqzshgqrpdjm">writeup of this
+      exercise</a></li>
+      </ul></li>
+      </ul></li>
+      <li>Recit 4 (Mon, Jan 30): Trig sub / Review for Midterm 1
+      <ul>
+      <li><a href="https://www.overleaf.com/read/jjhvrxhqzzgg">Trig Sub
+      Table</a></li>
+      <li>Section 3.3: 134, 138, 139, 140
+      <ul>
+      <li>147 will be used as ~4d~</li>
+      </ul></li>
+      </ul></li>
+      <li>Recit 5 (Wed, Feb 1): Polynomial factorization, integrals of
+      rational functions / Partial fraction decomposition
+      <ul>
+      <li>Factorization formulas for difference of squares, sum and
+      difference of cubes</li>
+      <li>The discriminant of a quadratic, and how it allows us to check
+      factorizability over <span
+      class="math inline">\(\mathbb{R}\)</span></li>
+      <li>Rational root theorem</li>
+      <li>Polynomial long division vs. synthetic division</li>
+      </ul></li>
+      <li>Recit 6 (Mon, Feb 6): Partial fraction decomposition cont
+      <ul>
+      <li>Section 3.4: 197, 199, 200, 205, 206, 207, 211, 212
+      <ul>
+      <li>199, 206, 205, 207 will be used as ~3 A-E~</li>
+      </ul></li>
+      </ul></li>
+      <li>Recit 7 (Wed, Feb 8): Numerical integration
+      <ul>
+      <li><a href="https://www.overleaf.com/read/sdrkwkrxchyc">Brief
+      notes</a></li>
+      </ul></li>
+      <li>Recit 8 (Mon, Feb 13): Improper Integrals</li>
+      <li>Recit 9 (Wed, Feb 15): Arclength, Surface area
+      <ul>
+      <li>The formulas I explained in recitation were taken from <a
+      href="https://tutorial.math.lamar.edu/classes/calcii/surfacearea.aspx">Paul's
+      Online Notes &gt; Surface Area</a></li>
+      <li>Extra: <a
+      href="https://www.wikiwand.com/en/Gabriel%27s_horn">Gabriel's
+      Horn</a>, a mathematical object with infinite surface area but
+      finite volume. After one has learned how to compute improper
+      integrals, and knows the formulas for surface area and volume of a
+      solid of revolution, this assertion can be checked.</li>
+      </ul></li>
+      <li>Recit 10 (Mon, Feb 20): Work
+      <ul>
+      <li>Due to the snow day, this topic is now optional and will not
+      be in the exams. I will still cover it in recitation.</li>
+      <li><a
+      href="https://www.dropbox.com/s/f8am1t72huaesvt/lect-10-sol.pdf?dl=0">Lecture
+      10 with solutions</a></li>
+      <li><a
+      href="https://tutorial.math.lamar.edu/Classes/CalcI/Work.aspx">Paul's
+      Online Notes &gt; Work</a></li>
+      </ul></li>
+      <li>Recit 11 (Wed, Feb 22): Center of mass
+      <ul>
+      <li><a href="https://www.overleaf.com/read/wzsvhrzrgfvs">Formulas
+      all on one page</a></li>
+      <li><a
+      href="https://www.dropbox.com/s/vqm7v0wfqiaw6sq/hw6.6.pdf?dl=0">Hw
+      6 Problem 6 solution</a> (Wrote this up because the values are
+      nasty)</li>
+      </ul></li>
+      <li>Recit 12 (Mon, Feb 27): Review for Midterm 2 (on Tues, Feb 28)
+      <ul>
+      <li><a
+      href="https://www.dropbox.com/s/odsm9afh77fc1ls/review2-sol.pdf?dl=0">Midterm
+      2 Review Solutions</a> (Try the problems for yourself, before
+      referring to this!)</li>
+      </ul></li>
+      <li>Recit 13 (Wed, Mar 1): Hyperbolic functions
+      <ul>
+      <li><a
+      href="https://www.wikiwand.com/en/Inverse_hyperbolic_function#Definitions_in_terms_of_logarithms">Inverse
+      hyperbolic functions in terms of logarithms</a></li>
+      </ul></li>
+      <li>Recit 14 (Mon, Mar 6): (Separable) Differential Equations</li>
+      <li>Recit 15 (Wed, Mar 8): Sequences</li>
+      <li>Spring break (March 12--19)</li>
+      <li>Recit 16 (Mon, Mar 20): Series</li>
+      <li>Recit 17 (Wed, Mar 22): Integral test</li>
+      <li>Recit 18 (Mon, Mar 27): Comparison tests</li>
+      <li>Recit 19 (Wed, Mar 29): Alternating Series</li>
+      <li>Recit 20 (Mon, Apr 3): Review for midterm 3 (on April 4)
+      <ul>
+      <li><a
+      href="https://www.dropbox.com/s/lsfs8vxujqbq8r8/review3-sol.pdf?dl=0">Midterm
+      3 Review Solutions</a></li>
+      </ul></li>
+      <li>Recit 21 (Wed, Apr 5): Ratio and root tests</li>
+      <li>Recit 22 (Mon, Apr 10): Power series</li>
+      <li>Recit 23 (Wed, Apr 12): Taylor series</li>
+      <li>Recit 24 (Mon, Apr 17): Taylor series II</li>
+      <li>Recit 25 (Wed, Apr 19): Parametric curves</li>
+      <li>Recit 26 (Mon, Apr 24): Parametric calculus</li>
+      <li>Recit 27 (Wed, Apr 26): Polar coordinates
+      <ul>
+      <li><a href="https://www.desmos.com/calculator/pzb2xlqh6z">Desmos
+      &gt; Limacon / Cardioid</a></li>
+      <li><a href="https://www.desmos.com/calculator/rrv2x4lzci">Desmos
+      &gt; Rose Curve</a></li>
+      </ul></li>
+      <li>Recit 28 (Mon, May 1): Area and length in polar
+      coordinates</li>
+      <li>Recit 29 (Wed, May 3): Review for final</li>
+      <li>Recit 29 (Mon, May 8): Review for final (do we still
+      meet?)</li>
+      </ul>
+      </section>
+      <section id="ksu-math-exam-archive" class="level2">
+      <h2>KSU Math Exam Archive</h2>
+      <p><a
+      href="https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc2/">https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/calc2/</a></p>
+      <blockquote>
+      <p>Particularly relevant are the 2020 Spring, 2019 Spring, and
+      2018 Spring semesters.</p>
+      </blockquote>
+      </section>
+      <section id="exam-solutions" class="level2">
+      <h2>Exam Solutions</h2>
+      <ul>
+      <li><a
+      href="https://www.dropbox.com/s/ejbd30j570h6rcj/exam1-mysol.pdf?dl=0">Midterm
+      1 mysol</a></li>
+      <li><a
+      href="https://www.dropbox.com/s/jpjlfeqtsuzzeu0/exam2-mysol.pdf?dl=0">Midterm
+      2 mysol</a></li>
+      <li><a
+      href="https://www.dropbox.com/s/f59fpk20tpxadb3/math221_S23_mid_3_sols.pdf?dl=0">Midterm
+      3</a>
+      <ul>
+      <li><a
+      href="https://www.dropbox.com/s/dsqzgfza4if81s4/exam3-comments.pdf?dl=0">Midterm
+      3 comments</a></li>
+      </ul></li>
+      </ul>
+      </section>
+      <section id="other-resources" class="level2">
+      <h2>Other Resources</h2>
+      <ul>
+      <li><a
+      href="https://tutorial.math.lamar.edu/classes/calcii/calcii.aspx">Paul's
+      Online Notes &gt; Calc 2</a></li>
+      </ul>
+      <section id="computer-aid-for-checking-answers" class="level3">
+      <h3>Computer Aid (For <em>checking</em> answers)</h3>
+      <ul>
+      <li><a href="https://www.wolframalpha.com/">Wolfram Alpha</a></li>
+      </ul>
+      </section>
+      </section>
+      <section id="math-background-refresher-calc-1--trig"
+      class="level2">
+      <h2>Math background refresher (Calc 1 &amp; Trig)</h2>
+      <ul>
+      <li><a
+      href="https://tutorial.math.lamar.edu/classes/calci/calci.aspx">Paul's
+      Online Notes &gt; Calc 1</a>
+      <ul>
+      <li>Has worked out practice problems</li>
+      </ul></li>
+      <li>Cheat sheets
+      <ul>
+      <li><a
+      href="https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx">Paul's
+      Online Notes &gt; Cheat Sheets &amp; Tables</a>
+      <ul>
+      <li>Look at "Common Derivatives and Integrals" and "Trig Cheat
+      Sheet". Maybe also "Complete Calculus Cheat Sheet"</li>
+      </ul></li>
+      <li><a href="https://www.overleaf.com/read/pjpffsrkrhfx">My Unit
+      Circle cheatsheet</a></li>
+      </ul></li>
+      </ul>
+      </section>
+      <section id="integration-practice" class="level2">
+      <h2>Integration practice</h2>
+      <ul>
+      <li><a
+      href="https://www.youtube.com/watch?v=XOUwIdufY9Y">"Ultimate
+      integral starter" video</a> (6 hours)</li>
+      <li><a href="https://www.youtube.com/watch?v=dgm4-3-Iv3s">100
+      integrals video</a> (6 hours)</li>
+      <li><a
+      href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGyKrScQeswVIq5ud2Ui5wwX">Trig
+      integrals playlist</a></li>
+      <li><a
+      href="https://www.youtube.com/playlist?list=PLj7p5OoL6vGwi8Fdeq-4ppvGmjx47a0Eo">Trig
+      sub playlist</a></li>
+      </ul>
+      </section>
+      <section id="series-things" class="level2">
+      <h2>Series things</h2>
+      <ul>
+      <li><a
+      href="https://www.overleaf.com/read/rfmfhkchbtdf">Convergence
+      Tests notes</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dZ5dtcJsxgI">BPRP's
+      "The List"</a> (12 mins)
+      <ul>
+      <li>Quick way to intuit whether a series converges or diverges by
+      comparing the relative growth of standard functions. (You'll need
+      to argue things more thoroughly on the exam.)</li>
+      </ul></li>
+      <li><a href="https://www.youtube.com/watch?v=jTuTEcwvkP4">BPRP's
+      100 Series video</a> (6 hrs)</li>
+      <li><a href="https://www.youtube.com/watch?v=Od2YAt1_ibE">BPRP
+      "What Series Convergence Test Do I Use?" livestream</a> (1.5
+      hours, 15 series)</li>
+      <li><a href="https://www.youtube.com/watch?v=LKhvdkUdLtE">BPRP
+      Power series study guide</a> (3.5 hours, 26.2 power series)</li>
+      </ul>
+      </section>
+      </section>
+    </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© 2026 Winston Cheong. Source in Markdown; styled automatically.</p>
+    </div>
+  </footer>
+  <script>
+    (function () {
+      var btn = document.getElementById("themeToggle");
+      if (!btn) return;
+      btn.addEventListener("click", function () {
+        var current = document.documentElement.getAttribute("data-theme");
+        var next = current === "dark" ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        try { localStorage.setItem("theme", next); } catch (e) {}
+      });
+    })();
+  </script>
+</body>
+</html>

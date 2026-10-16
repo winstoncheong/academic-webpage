@@ -1,11 +1,5 @@
 # 2023 Fall | Calc 1
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
-
 * Course Coordinator:
   * Dr. Craig Spencer
 * Recitation Instructor:

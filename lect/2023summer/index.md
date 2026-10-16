@@ -1,12 +1,5 @@
 # 2023 Summer | Calc 3
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
-
-
 * Course Coordinator: 
   * Kathryn Wilson
 * Lecturer:

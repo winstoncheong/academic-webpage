@@ -1,11 +1,5 @@
 # 2023 Spring | Calc 2
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
-
 * Course Coordinator:
   * Dr. Lino Amorim
 * Recitation Instructor:
