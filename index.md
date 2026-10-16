@@ -85,7 +85,7 @@
   * <https://www.hyperkaehler.info/>
   * <https://superficie.info/#input>
   * <http://pbelmans.ncag.info/cohomology-tables/>
-* [Adjectives Project](https://adjectivesproject.org/)
+* [Adjectives Project](https://adjectivesproject.org/) — a database/examples of schemes and morphisms indexed by combinations of adjectives (e.g. separated, proper, etc.)
 * [Better KSU Math Exam Archive](https://winstoncheong.github.io/Better-KSU-Math-Exam-Archive/)
 
 # Seminar pages with useful information
