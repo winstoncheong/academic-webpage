@@ -91,7 +91,7 @@ thead th { background: var(--code-bg); font-weight: 600; text-align: left; }
 tbody tr:nth-child(even) { background: color-mix(in srgb, var(--code-bg) 45%, transparent); }
 tbody tr:last-child td { border-bottom: none; }
 .pic { margin: 0 0 1.5rem; }
-.pic img { width: 152px; height: 152px; object-fit: cover; border-radius: 50%; box-shadow: var(--shadow); border: 3px solid var(--bg-elev); }
+.pic img { width: 180px; height: auto; border-radius: 16px; box-shadow: var(--shadow); border: 3px solid var(--bg-elev); }
 .email { font-family: "JetBrains Mono", Consolas, monospace; font-size: 0.95rem; color: var(--muted); }
 .site-footer { max-width: 1080px; margin: 0 auto; padding: 2rem 1.25rem 3rem; color: var(--muted); font-size: 0.9rem; border-top: 1px solid var(--border); }
 .site-footer p { margin: 0; }
