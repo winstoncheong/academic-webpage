@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$if(title)$$title$$else$Winston Cheong$endif$</title>
+  <meta name="description" content="Academic webpage of Winston Cheong.">
+  <meta name="color-scheme" content="light dark">
+  $for(css)$<link rel="stylesheet" href="$css$">
+  $endfor$
+  <script>
+    (function () {
+      try {
+        var stored = localStorage.getItem("theme");
+        if (stored === "dark" || stored === "light") {
+          document.documentElement.setAttribute("data-theme", stored);
+        }
+      } catch (e) {}
+    })();
+  </script>
+  $if(math)$
+  $math$
+  $endif$
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="site-header">
+    <div class="nav">
+      <a class="brand" href="$root$index.html">Winston Cheong</a>
+      <nav class="navlinks" aria-label="Primary">
+        <a href="$root$index.html">Home</a>
+        <a href="$root$index.html#teaching">Teaching</a>
+        <a href="$root$latex.html">LaTeX</a>
+        <button class="theme-toggle" type="button" id="themeToggle" aria-label="Toggle color theme">◐</button>
+      </nav>
+    </div>
+  </header>
+  <main id="content" class="wrap">
+    <article class="content">
+      $body$
+    </article>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>© 2026 Winston Cheong. Source in Markdown; styled automatically.</p>
+    </div>
+  </footer>
+  <script>
+    (function () {
+      var btn = document.getElementById("themeToggle");
+      if (!btn) return;
+      btn.addEventListener("click", function () {
+        var current = document.documentElement.getAttribute("data-theme");
+        var next = current === "dark" ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        try { localStorage.setItem("theme", next); } catch (e) {}
+      });
+    })();
+  </script>
+</body>
+</html>

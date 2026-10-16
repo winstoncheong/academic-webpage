@@ -1,11 +1,5 @@
 # 2022 Spring | Trig
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
-
 * Course Coordinator:
   * Nagy
   * His webpage [here](https://www.math.ksu.edu/~nagy/math150/spring2022/syllabus.html)

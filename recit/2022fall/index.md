@@ -1,11 +1,5 @@
 # 2022 Fall | Calc 3
 
-<style>
- a:visited {
-  color: darkorchid
- }
-</style>
-
 * Course Coordinator:
   * Dr. Ivan Blank
 * Recitation Instructor:

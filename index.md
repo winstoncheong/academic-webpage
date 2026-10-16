@@ -1,25 +1,3 @@
-<!-- ---
-title: Winston Cheong's page
---- -->
-
-<head>
-<style>
-  .name {
-    font-size: 20pt
-  }
-  a:visited {
-    color: darkorchid
-  }
-  .column {
-    float: left;
-    width: 50%;
-  }
-  .pic {
-    width: 50%;
-  }
-</style>
-</head>
-
 # Winston Cheong
 
 <!-- <div class="name">Winston Cheong</div> -->
@@ -29,33 +7,13 @@ title: Winston Cheong's page
   <!-- ![profile](./assets/profile_pic.jpg) -->
 
   <!-- Not sure how to make compiler spit out the right output. Will just manually change output -->
-  <img src="./assets/profile_pic.jpg" alt="profile pic" style="width:151px;"/>
+  <img src="./assets/profile_pic.jpg" alt="Winston Cheong" />
 </div>
 
 * Email: `cheong.winston1337 at gmail dot com`
 
-# Table of Contents
-- [Winston Cheong](#winston-cheong)
-- [Table of Contents](#table-of-contents)
-- [Education](#education)
-- [Awards](#awards)
-- [Research interests](#research-interests)
-  - [Current](#current)
-  - [During Undergrad](#during-undergrad)
-- [Publications and Preprints](#publications-and-preprints)
-- [Presentations](#presentations)
-- [Possibly useful things](#possibly-useful-things)
-- [Some seminar pages](#some-seminar-pages)
-- [Teaching](#teaching)
-- [For graduate students / enterprising undergrads](#for-graduate-students--enterprising-undergrads)
-  - [Suggested reading](#suggested-reading)
-  - [LaTeX](#latex)
-  - [People with good notes](#people-with-good-notes)
-  - [A tip on how to use `researchseminars.org`:](#a-tip-on-how-to-use-researchseminarsorg)
-
-
 # Education
-* Masters in Mathematics, Kansas State Univeristy (2020)
+* Masters in Mathematics, Kansas State University (2020)
 * Bachelors of Science in Mathematics, Rowan University (2016)
 * Bachelors of Science in Computer Science, Rowan University (2016)
 
