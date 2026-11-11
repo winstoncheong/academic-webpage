@@ -38,6 +38,9 @@
   * $\infty$-categorical Yoneda lemma (2309.08340)
 * Using machine learning to aid in discovering new mathematics
 * Physical Mathematics
+* Quantitative finance
+* Algorithmic trading
+* Financial engineering
 
 ## During Undergrad
 * Ramanujan-style number theory (e.g. partition function, mock theta functions / mock modular forms)
