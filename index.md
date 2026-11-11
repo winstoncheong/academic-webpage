@@ -10,7 +10,14 @@
   <img src="./assets/profile_pic.jpg" alt="Winston Cheong" />
 </div>
 
-* Email: `cheong.winston1337 at gmail dot com`
+* Email: `winstonc at ksu dot com`, `cheong.winston1337 at gmail dot com`
+* ORCID: [0000-0001-7749-2355](https://orcid.org/0000-0001-7749-2355) (listed under Long Cheong, credit name Winston Cheong)
+* GitHub: [winstoncheong](https://github.com/winstoncheong)
+* arXiv: [author search for Winston Cheong](https://arxiv.org/search/?query=Winston+Cheong&searchtype=author&source=header)
+* INSPIRE-HEP: [W.Cheong.1](https://inspirehep.net/authors/2434763)
+* zbMATH Open: [cheong.long-g](https://zbmath.org/authors/cheong.long-g)
+* OpenAlex: [Long G. Cheong (A5057353820)](https://openalex.org/authors/A5057353820) · [Winston Cheong (A5049716988)](https://openalex.org/authors/A5049716988)
+* MaRDI portal: [Long G. Cheong](https://portal.mardi4nfdi.de/wiki/Person:2637459)
 
 # Education
 * Masters in Mathematics, Kansas State University (2020)
