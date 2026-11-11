@@ -29,6 +29,7 @@
 
 ## Current
 * Autoformalization
+* Condensed mathematics (condensed sets, solid / liquid / gaseous analytic rings)
 * Derived geometry
 * ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
