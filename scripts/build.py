@@ -14,7 +14,7 @@ MATHJAX_URL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
 def find_sources() -> list[Path]:
     sources: list[Path] = []
-    for name in ("index.md", "latex.md"):
+    for name in ("index.md", "latex.md", "teaching.md", "resources.md"):
         p = ROOT / name
         if p.exists():
             sources.append(p)
