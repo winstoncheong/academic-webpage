@@ -30,6 +30,8 @@
 * Quantitative finance
 * Algorithmic trading
 * Financial engineering
+* Data engineering
+* Inference engineering
 * Autoformalization
 * Condensed mathematics
 * Derived geometry
