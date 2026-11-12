@@ -11,9 +11,8 @@
 </div>
 
 * Email: `cheong.winston1337 at gmail dot com`
-* ORCID: [0000-0001-7749-2355](https://orcid.org/0000-0001-7749-2355) (listed under Long Cheong, credit name Winston Cheong)
+* ORCID: [0000-0001-7749-2355](https://orcid.org/0000-0001-7749-2355)
 * GitHub: [winstoncheong](https://github.com/winstoncheong)
-* arXiv: [author search for Winston Cheong](https://arxiv.org/search/?query=Winston+Cheong&searchtype=author&source=header)
 
 # Education
 * Masters in Mathematics, Kansas State University (2020)
@@ -51,15 +50,6 @@
 * (Monstrous/Mathieu/Umbral) moonshine
 * Quantum topology
 * Categorification
-
-# Work in progress
-
-Reading and expository notes only; no new results claimed here.
-
-* $A_\infty$-comodules after Anno–Arkhipov–Logvinenko (arXiv:2303.11826): reading and reconstructing the comodule side.
-* Derived algebraic geometry / higher categories: reading Lurie (Higher Topos Theory, Higher Algebra).
-* Cohomological Hall algebras and Bridgeland stability: course / seminar notes.
-* Lean formalization of basic homological algebra: early-stage experiments.
 
 # Publications and Preprints
 
