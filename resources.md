@@ -29,7 +29,7 @@ Collections moved off the front page to keep it short. All links are to public t
 
 These are seminar pages/notes I find useful; I did not necessarily attend all of them live.
 
-* [M-seminar](https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html), [youtube channel](https://www.youtube.com/@m-seminar_ksu/)
+* [M-seminar](https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html), [youtube channel](https://www.youtube.com/@m-seminar_ksu/), [my version of seminar page](https://m-seminar.vercel.app/)
 * [WHCGP seminar](https://web.math.ucsb.edu/~drm/WHCGP/)
 * [Informal string math seminar](https://wp.math.berkeley.edu/stringmath/)
 * [Paris algebra seminar](https://researchseminars.org/seminar/paris-algebra-seminar)

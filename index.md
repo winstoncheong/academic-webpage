@@ -1,12 +1,6 @@
 # Winston Cheong
 
-<!-- <div class="name">Winston Cheong</div> -->
-
 <div class="pic">
-
-  <!-- ![profile](./assets/profile_pic.jpg) -->
-
-  <!-- Not sure how to make compiler spit out the right output. Will just manually change output -->
   <img src="./assets/profile_pic.jpg" alt="Winston Cheong" />
 </div>
 
@@ -25,23 +19,19 @@
 
 # Research interests
 
-
 ## Current
 * Quantitative finance
 * Algorithmic trading
 * Financial engineering
 * Data engineering
+* Agentic AI engineering
 * Inference engineering
 * Autoformalization
-* Condensed mathematics
 * Derived geometry
+* Condensed mathematics
 * ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
 * Langlands program
-* Formalization of mathematics, e.g.:
-  * Perfectoid spaces (1910.12320)
-  * $\infty$-categorical Yoneda lemma (2309.08340)
-* Using machine learning to aid in discovering new mathematics
 * Physical Mathematics
 
 ## During Undergrad
