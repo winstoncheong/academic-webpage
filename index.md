@@ -31,7 +31,7 @@
 * Algorithmic trading
 * Financial engineering
 * Autoformalization
-* Condensed mathematics (condensed sets, solid / liquid / gaseous analytic rings)
+* Condensed mathematics
 * Derived geometry
 * ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
