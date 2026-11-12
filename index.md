@@ -6,7 +6,6 @@
 
 * Email: `cheong.winston1337 at gmail dot com`
 * ORCID: [0000-0001-7749-2355](https://orcid.org/0000-0001-7749-2355)
-* GitHub: [winstoncheong](https://github.com/winstoncheong)
 
 # Education
 * Masters in Mathematics, Kansas State University (2020)
