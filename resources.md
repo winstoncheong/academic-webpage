@@ -23,6 +23,7 @@ Collections moved off the front page to keep it short. All links are to public t
 * [My translations page](https://winstoncheong.github.io/translations/) — English translations of mathematical papers, built from LaTeX
 * [My arXiv fixes](https://winstoncheong.github.io/arxiv-fixes/) — repaired/compilable versions of older arXiv papers, with hyperlinks and bookmarks
 * [sga4.5](https://winstoncheong.github.io/sga4.5/) — LaTeX typeset PDFs of both the French original and an English translation of SGA 4½
+* [MathBases](https://mathbases.org/) — index of mathematical databases
 
 # Seminar pages with useful information
 
