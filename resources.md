@@ -28,10 +28,11 @@ Collections moved off the front page to keep it short. All links are to public t
 # Seminar pages with useful information
 
 * [M-seminar](https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html), [youtube channel](https://www.youtube.com/@m-seminar_ksu/), [my version of seminar page](https://m-seminar.vercel.app/)
-* [WHCGP seminar](https://web.math.ucsb.edu/~drm/WHCGP/)
-* [Informal string math seminar](https://wp.math.berkeley.edu/stringmath/)
-* [Paris algebra seminar](https://researchseminars.org/seminar/paris-algebra-seminar)
+* [WHCGP seminar](https://web.math.ucsb.edu/~drm/WHCGP/), [YT](https://www.youtube.com/user/amneitzke)
+* [Informal string math seminar](https://wp.math.berkeley.edu/stringmath/), [YT](https://www.youtube.com/channel/UCCQDkMYUGsMJxqidfZJt9Vw)
+* [Paris algebra seminar](https://www.imj-prg.fr/gestion/evenement/affEvenement/1), [researchseminars](https://researchseminars.org/seminar/paris-algebra-seminar), [slides](https://cloud.math.univ-paris-diderot.fr/s/2P364q8sRGLfqWT), [slides (IMJ)](https://cloud.math.univ-paris-diderot.fr/s/ZDWwLMfoNkqt8oY)
 * [BunG seminar](https://math.uchicago.edu/bundles/), [their YT](https://www.youtube.com/@bungseminar/videos)
+* [STAG (Stanford algebraic geometry seminar)](https://agstanford.com/), [YT](https://www.youtube.com/channel/UC7CnJuL9iKGlP--qPA4k1ww)
 
 
 # Attended
