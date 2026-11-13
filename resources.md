@@ -27,8 +27,6 @@ Collections moved off the front page to keep it short. All links are to public t
 
 # Seminar pages with useful information
 
-These are seminar pages/notes I find useful; I did not necessarily attend all of them live.
-
 * [M-seminar](https://www.math.ksu.edu/research/centers-groups/m-center/seminars.html), [youtube channel](https://www.youtube.com/@m-seminar_ksu/), [my version of seminar page](https://m-seminar.vercel.app/)
 * [WHCGP seminar](https://web.math.ucsb.edu/~drm/WHCGP/)
 * [Informal string math seminar](https://wp.math.berkeley.edu/stringmath/)
@@ -36,9 +34,7 @@ These are seminar pages/notes I find useful; I did not necessarily attend all of
 * [BunG seminar](https://math.uchicago.edu/bundles/), [their YT](https://www.youtube.com/@bungseminar/videos)
 
 
-# Seminars and events attended
-
-I use this section to keep track of seminars and conferences I attend, including virtual ones.
+# Attended
 
 * [Higher Categories for the Working Mathematician](https://events.gwdg.de/event/1365/program) — RTG 2491 summer school, Göttingen, 27–31 July 2026 (virtual attendance)
 * [ICM 2022](https://www.mathunion.org/icm/virtual-icm-2022) (virtual) — International Congress of Mathematicians (6–14 July 2022)
