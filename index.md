@@ -4,7 +4,12 @@
   <img src="./assets/profile_pic.jpg" alt="Winston Cheong" />
 </div>
 
-* Email: `cheong.winston1337 at gmail dot com`
+# Contact
+* Academic: `winstonc at ksu dot edu`
+* Business: `winston.cheong at lotuswoodllc dot com`
+* Personal: `cheong.winston1337 at gmail dot com`
+
+# Academic Profiles
 * ORCID: [0000-0001-7749-2355](https://orcid.org/0000-0001-7749-2355)
 
 # Education
@@ -60,14 +65,16 @@
    <https://doi.org/10.1016/j.jnt.2013.11.008>.
    Preprint version: [arXiv:1401.2970](https://arxiv.org/abs/1401.2970)
 
-# Presentations
+# Presentations / Talks
 
-1. 2016 JMM poster session - "Relationship of the Hennings and Chern-Simons Invariant for Higher Rank Quantum Groups"
-2. 2015 Oct 26 - "The Hennings and Chern-Simons Witten Three-Manifold Invariants"
+7. Talk in Natasha's Lie algebras class, on construction of the universal enveloping algebra of a Lie algebra
+6. DG categories (some section of Toen's lecture notes) talk at Student m-seminar, Kansas State
+5. 2016 JMM poster session - "Relationship of the Hennings and Chern-Simons Invariant for Higher Rank Quantum Groups"
+4. 2015 Oct 26 - "The Hennings and Chern-Simons Witten Three-Manifold Invariants"
    (Rowan Mathematics Department Colloquium Series)
 3. 2015 Summer - "REU Topic: Invariants of 3-manifolds" [slides](files/reu-presentation.pdf)
-4. 2014 Rowan STEM Symposium - Poster presentation "Converging on the Area of the Mandelbrot Set"
-5. 2013 Nov 20 - "Converging on the Area of the Mandelbrot set"
+2. 2014 Rowan STEM Symposium - Poster presentation "Converging on the Area of the Mandelbrot Set"
+1. 2013 Nov 20 - "Converging on the Area of the Mandelbrot set"
    (Rowan Mathematics Department Colloquium Series, joint presentation with Daniel Bittner)
    [slides](files/mandelbrot_presentation.pdf)
 
