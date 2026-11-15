@@ -33,6 +33,7 @@ Collections moved off the front page to keep it short. All links are to public t
 * [Paris algebra seminar](https://www.imj-prg.fr/gestion/evenement/affEvenement/1), [researchseminars](https://researchseminars.org/seminar/paris-algebra-seminar), [slides](https://cloud.math.univ-paris-diderot.fr/s/2P364q8sRGLfqWT), [slides (IMJ)](https://cloud.math.univ-paris-diderot.fr/s/ZDWwLMfoNkqt8oY)
 * [BunG seminar](https://math.uchicago.edu/bundles/), [their YT](https://www.youtube.com/@bungseminar/videos)
 * [STAG (Stanford algebraic geometry seminar)](https://agstanford.com/), [YT](https://www.youtube.com/channel/UC7CnJuL9iKGlP--qPA4k1ww)
+* [SCGP (Simons Center for Geometry and Physics)](https://scgp.stonybrook.edu/), [video portal](https://scgp.stonybrook.edu/video_portal/), [YT](https://www.youtube.com/channel/UC6pOFUNZzTMxqFKaRR53WvQ)
 
 
 # Attended
