@@ -34,6 +34,7 @@ Collections moved off the front page to keep it short. All links are to public t
 * [BunG seminar](https://math.uchicago.edu/bundles/), [their YT](https://www.youtube.com/@bungseminar/videos)
 * [STAG (Stanford algebraic geometry seminar)](https://agstanford.com/), [YT](https://www.youtube.com/channel/UC7CnJuL9iKGlP--qPA4k1ww)
 * [SCGP (Simons Center for Geometry and Physics)](https://scgp.stonybrook.edu/), [video portal](https://scgp.stonybrook.edu/video_portal/), [YT](https://www.youtube.com/channel/UC6pOFUNZzTMxqFKaRR53WvQ)
+* [WARTHOG (Workshop on Algebra and Representation Theory Held on Oregonian Grounds)](https://pages.uoregon.edu/belias/WARTHOG/) — annual workshop for graduate students and postdocs, each year on a single paper/result in algebra/representation theory; site archives past editions
 
 
 # Attended
