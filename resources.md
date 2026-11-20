@@ -24,6 +24,7 @@ Collections moved off the front page to keep it short. All links are to public t
 * [My arXiv fixes](https://winstoncheong.github.io/arxiv-fixes/) — repaired/compilable versions of older arXiv papers, with hyperlinks and bookmarks
 * [sga4.5](https://winstoncheong.github.io/sga4.5/) — LaTeX typeset PDFs of both the French original and an English translation of SGA 4½
 * [MathBases](https://mathbases.org/) — index of mathematical databases
+* [MathHelm](https://mathhelm.org/) — forum for research mathematicians (questions, papers, discussions; posting requires a verified institutional email)
 
 # Seminar pages with useful information
 
