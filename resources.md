@@ -55,7 +55,7 @@ Collections moved off the front page to keep it short. All links are to public t
   * [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
   * [Write down what you've done](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/)
   * [Work hard](https://terrytao.wordpress.com/career-advice/work-hard/)
-* Atiyah's "Mathematics in the 20th Century" article.
+* Atiyah's ["Mathematics in the 20th Century"](https://doi.org/10.1112/S0024609301008566) article.
 * Ben Webster's [Geometry and categorification](https://arxiv.org/abs/1602.05992)
 * Emily Riehl's [Infinity category theory from scratch](https://emilyriehl.github.io/files/scratch.pdf) ([arxiv version](https://arxiv.org/abs/1608.05314))
 * Periodicals
