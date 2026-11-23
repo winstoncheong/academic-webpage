@@ -31,12 +31,13 @@
 * Agentic AI engineering
 * Inference engineering
 * Autoformalization
-* Derived geometry
+* Derived geometry (including A-infinity, E-infinity, and L-infinity structures)
 * Condensed mathematics
 * ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
 * Langlands program
-* Physical Mathematics
+* Physical Mathematics and the foundations of quantum field theory
+* Using machine learning / data science to discover new mathematics
 
 ## During Undergrad
 * Ramanujan-style number theory (e.g. partition function, mock theta functions / mock modular forms)
