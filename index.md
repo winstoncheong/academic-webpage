@@ -31,7 +31,7 @@
 * Agentic AI engineering
 * Inference engineering
 * Autoformalization
-* Derived geometry (including A-infinity, E-infinity, and L-infinity structures)
+* Derived geometry and higher algebra (A-infinity, E-infinity, and L-infinity structures)
 * Condensed mathematics
 * ["Perfection"](https://scop.math.berkeley.edu/)
 * Mirror symmetry
