@@ -50,34 +50,38 @@
 
 # Publications and Preprints
 
-1. Winston Cheong, Alexander Doser, McKinley Gray, and Stephen F. Sawin.
-   "Relationship of the Hennings and Witten-Reshetikhin-Turaev invariants for higher rank quantum groups."
-   J. Knot Theory and Ramifications 2023 32:07.
-   <https://doi.org/10.1142/S0218216523500487>
-   Preprint version: [arXiv:1701.01423](http://arxiv.org/abs/1701.01423)
-2. Daniel Bittner, Long Cheong, Dante Gates, and Hieu Nguyen.
-   "New Approximations for the Area of the Mandelbrot Set."
-   Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555&ndash;572.
-   <https://doi.org/10.2140/involve.2017.10.555>.
-   Preprint version: [arXiv:1410.1212](https://arxiv.org/abs/1410.1212)
-3. Hieu D. Nguyen and Long G. Cheong.
-   "New Convolution Identities for Hypergeometric Bernoulli Polynomials."
-   Journal of Number Theory 137 (April 1, 2014): 201&ndash;221.
-   <https://doi.org/10.1016/j.jnt.2013.11.008>.
-   Preprint version: [arXiv:1401.2970](https://arxiv.org/abs/1401.2970)
+<ol reversed>
+<li>Winston Cheong, Alexander Doser, McKinley Gray, and Stephen F. Sawin.
+  "Relationship of the Hennings and Witten-Reshetikhin-Turaev invariants for higher rank quantum groups."
+  J. Knot Theory and Ramifications 2023 32:07.
+  <a href="https://doi.org/10.1142/S0218216523500487">https://doi.org/10.1142/S0218216523500487</a>
+  Preprint version: <a href="http://arxiv.org/abs/1701.01423">arXiv:1701.01423</a></li>
+<li>Daniel Bittner, Long Cheong, Dante Gates, and Hieu Nguyen.
+  "New Approximations for the Area of the Mandelbrot Set."
+  Involve, a Journal of Mathematics 10, no. 4 (March 7, 2017): 555&ndash;572.
+  <a href="https://doi.org/10.2140/involve.2017.10.555">https://doi.org/10.2140/involve.2017.10.555</a>.
+  Preprint version: <a href="https://arxiv.org/abs/1410.1212">arXiv:1410.1212</a></li>
+<li>Hieu D. Nguyen and Long G. Cheong.
+  "New Convolution Identities for Hypergeometric Bernoulli Polynomials."
+  Journal of Number Theory 137 (April 1, 2014): 201&ndash;221.
+  <a href="https://doi.org/10.1016/j.jnt.2013.11.008">https://doi.org/10.1016/j.jnt.2013.11.008</a>.
+  Preprint version: <a href="https://arxiv.org/abs/1401.2970">arXiv:1401.2970</a></li>
+</ol>
 
 # Presentations / Talks
 
-7. Talk in Natasha's Lie algebras class, on construction of the universal enveloping algebra of a Lie algebra
-6. DG categories (some section of Toen's lecture notes) talk at Student m-seminar, Kansas State
-5. 2016 JMM poster session - "Relationship of the Hennings and Chern-Simons Invariant for Higher Rank Quantum Groups"
-4. 2015 Oct 26 - "The Hennings and Chern-Simons Witten Three-Manifold Invariants"
-   (Rowan Mathematics Department Colloquium Series)
-3. 2015 Summer - "REU Topic: Invariants of 3-manifolds" [slides](files/reu-presentation.pdf)
-2. 2014 Rowan STEM Symposium - Poster presentation "Converging on the Area of the Mandelbrot Set"
-1. 2013 Nov 20 - "Converging on the Area of the Mandelbrot set"
-   (Rowan Mathematics Department Colloquium Series, joint presentation with Daniel Bittner)
-   [slides](files/mandelbrot_presentation.pdf)
+<ol reversed>
+<li>Talk in Natasha's Lie algebras class, on construction of the universal enveloping algebra of a Lie algebra</li>
+<li>DG categories (some section of Toen's lecture notes) talk at Student m-seminar, Kansas State</li>
+<li>2016 JMM poster session - "Relationship of the Hennings and Chern-Simons Invariant for Higher Rank Quantum Groups"</li>
+<li>2015 Oct 26 - "The Hennings and Chern-Simons Witten Three-Manifold Invariants"
+  (Rowan Mathematics Department Colloquium Series)</li>
+<li>2015 Summer - "REU Topic: Invariants of 3-manifolds" <a href="files/reu-presentation.pdf">slides</a></li>
+<li>2014 Rowan STEM Symposium - Poster presentation "Converging on the Area of the Mandelbrot Set"</li>
+<li>2013 Nov 20 - "Converging on the Area of the Mandelbrot set"
+  (Rowan Mathematics Department Colloquium Series, joint presentation with Daniel Bittner)
+  <a href="files/mandelbrot_presentation.pdf">slides</a></li>
+</ol>
 
 
 # Teaching
